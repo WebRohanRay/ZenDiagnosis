@@ -1,0 +1,4 @@
+This dataset provides a comprehensive mapping of human diseases to their associated symptoms, containing over 246,000 records across 773 unique medical conditions.
+
+It is specifically designed for high-scale data engineering and machine learning tasks, offering a diverse variety of symptom combinations for each disease. This allows for the development of robust predictive models and complex ETL pipelines using a Medallion Architecture (Bronze, Silver, and Gold layers).
+https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset
