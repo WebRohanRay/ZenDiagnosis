@@ -1,0 +1,774 @@
+disease_name,primary_dosha,secondary_dosha,body_attributes_imbalance,tissues_affected,main_healing_herb,herb_preparation,herb_vehicle,herb_action,diet_to_favor,diet_to_avoid,lifestyle_modification,recommended_yoga_pose,recommended_breathing_exercise,meditation_focus
+cystitis,Pitta,Vata,"Ushna, Tikshna",Mutravaha Srotas,Gokshura,Kwatha,Water,Mutrala,"Barley, Coconut water","Spicy food, Alcohol, Red meat, Excessive salt",Avoid suppression of urges,Bhujangasana,Sheetali,Swadhisthana
+vulvodynia,Vata,Pitta,"Ruksha, Shita",Artavavaha Srotas,Shatavari,Ksheerpaka,Milk,Vedanasthapana,"Ghee, Warm milk","Cold drinks, Dry snacks, Raw salads, Beans",Yoni Pichu,Baddha Konasana,Anulom Vilom,Pelvic floor relaxation
+nose disorder,Kapha,Vata,"Guru, Picchila",Pranavaha Srotas,Tulsi,Nasya Oil,Honey,Shirovirechana,"Ginger, Honey","Heavy dairy, Sweets, Fried food, Excessively cold items",Steam inhalation,Adho Mukha Svanasana,Kapalbhati,Ajna Chakra
+complex regional pain syndrome,Vata,Pitta,"Chala, Shita",Majja Dhatu,Ashwagandha,Taila,Warm Milk,Vatashamana,Warm nutritious food,"Cold drinks, Dry snacks, Raw salads, Beans",Yoga Nidra,Shavasana,Bhramari,Somatic awareness
+spondylosis,Vata,Kapha,"Khara, Shita",Asthi Dhatu,Guggulu,Vati,Warm water,Sandhanaka,"Garlic, Ginger","Cold drinks, Dry snacks, Raw salads, Beans",Posture correction,Marjariasana,Anulom Vilom,Spinal alignment
+hypoglycemia,Vata,Pitta,"Laghu, Shita",Rasa Dhatu,Amalaki,Churna,Sugar water,Rasayana,Small frequent meals,"Cold drinks, Dry snacks, Raw salads, Beans",Regular eating schedule,Vrikshasana,Nadi Shodhana,Stability focus
+vaginal cyst,Kapha,Vata,"Kathina, Guru",Mamsa Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,"Low fat, high fiber","Heavy dairy, Sweets, Fried food, Excessively cold items",Local hygiene,Viparita Karani,Ujjayi,Sacral healing
+conjunctivitis due to allergy,Pitta,Kapha,"Drava, Tikshna",Netra (Eyes),Triphala,Eye Wash,Rose Water,Chakshushya,"Amla, Leafy greens","Spicy food, Alcohol, Red meat, Excessive salt",Cold compresses,Trataka (Gentle),Sheetali,Visual focus
+peripheral nerve disorder,Vata,None,"Chala, Ruksha",Majja Dhatu,Bala,Oil,Milk,Balya,"Sweet, Sour, Salty","Cold drinks, Dry snacks, Raw salads, Beans",Abhyanga,Tadasana,Anulom Vilom,Nerve calming
+esophagitis,Pitta,None,"Vidahi, Ushna",Annavaha Srotas,Yastimadhu,Churna,Ghee,Daha-prashamana,"Cold milk, Pomegranate","Spicy food, Alcohol, Red meat, Excessive salt",Small meals,Vajrasana,Sheetali,Heart center
+gastrointestinal hemorrhage,Pitta,Rakta,"Drava, Sara",Rakta Dhatu,Vasa,Swarasa,Honey,Raktapittahara,"Pomegranate, Grapes","Spicy food, Alcohol, Red meat, Excessive salt",Absolute rest,Shavasana,Sheetali,Calming
+diverticulitis,Vata,Pitta,"Ruksha, Ushna",Purishavaha Srotas,Isabgol,Husk,Warm Water,Anulomana,High fiber (boiled),"Cold drinks, Dry snacks, Raw salads, Beans",Probiotic intake,Pavanamuktasana,Bhramari,Intestinal ease
+acute bronchitis,Kapha,Vata,"Guru, Shita",Pranavaha Srotas,Vasa,Avaleha,Honey,Kasahara,"Warm fluids, Ginger","Heavy dairy, Sweets, Fried food, Excessively cold items",Avoid cold exposure,Dhanurasana,Kapalbhati,Chest opening
+infectious gastroenteritis,Pitta,Vata,"Drava, Sara",Annavaha Srotas,Kutaja,Arishta,Water,Grahi,"Buttermilk, Gruel","Spicy food, Alcohol, Red meat, Excessive salt",Hand hygiene,Shavasana,Anulom Vilom,Gut healing
+pneumonia,Kapha,Pitta,"Guru, Drava",Pranavaha Srotas,Pushkarmoola,Churna,Honey,Shwasahara,"Light, warm food","Heavy dairy, Sweets, Fried food, Excessively cold items",Warm compress,Matsyasana,Deep breathing,Lung vitality
+fungal infection of the hair,Kapha,Vata,"Kleda, Kandu",Rakta Dhatu,Neem,Taila,Internal/External,Krimighna,Bitter vegetables,"Heavy dairy, Sweets, Fried food, Excessively cold items",Scalp hygiene,Sarvangasana,Kapalbhati,Detox focus
+sprain or strain,Vata,None,Shoola (Pain),Snayu (Ligaments),Shallaki,Vati/Lep,Warm Water,Shothahara,Anti-inflammatory diet,"Cold drinks, Dry snacks, Raw salads, Beans",Rest and RICE,Sukshma Vyayama,Bhramari,Tissue repair
+spontaneous abortion,Vata,Pitta,"Chala, Ushna",Artava Dhatu,Ashoka,Ksheerpaka,Milk,Garbhasthapana,"Nutritious, cooling","Cold drinks, Dry snacks, Raw salads, Beans",Bed rest,Shavasana,Nadi Shodhana,Emotional support
+gout,Vata,Rakta,"Tikshna, Ushna",Rakta Dhatu,Guduchi,Satva,Water,Raktaprasadana,"Barley, Old rice","Cold drinks, Dry snacks, Raw salads, Beans",Avoid high protein,Tadasana,Sheetali,Joint ease
+marijuana abuse,Vata,Pitta,"Vikashi, Laghu",Manovaha Srotas,Brahmi,Ghrita,Milk,Medhya,Sattvic diet,"Cold drinks, Dry snacks, Raw salads, Beans",De-addiction therapy,Padmasana,Anulom Vilom,Mental clarity
+arthritis of the hip,Vata,None,"Shita, Khara",Asthi-Sandhi,Nirgundi,Taila,Warm water,Vatashamana,"Warm, unctuous food","Cold drinks, Dry snacks, Raw salads, Beans",Avoid squatting,Setu Bandhasana,Anulom Vilom,Hip mobility
+strep throat,Kapha,Pitta,"Shotha, Daha",Rasa Dhatu,Haridra,Gargle/Powder,Honey,Kanthya,Turmeric milk,"Heavy dairy, Sweets, Fried food, Excessively cold items",Warm salt gargles,Simhasana,Ujjayi,Throat chakra
+injury to the arm,Vata,None,Bhanga (Fracture),Asthi Dhatu,Laksha,Churna,Milk,Asthi-sandhanaka,Calcium rich diet,"Cold drinks, Dry snacks, Raw salads, Beans",Immobilization,Prarthanasana,Anulom Vilom,Healing focus
+liver disease,Pitta,None,"Ushna, Tikshna",Yakrit (Liver),Katuki,Churna,Water,Yakrit-uttejaka,"Bitter gourd, Papaya","Spicy food, Alcohol, Red meat, Excessive salt",Avoid alcohol/fat,Katichakrasana,Sheetali,Detoxification
+bursitis,Vata,Kapha,Shotha (Swelling),Mamsa Dhatu,Punarnava,Kwatha,Water,Shothahara,Low salt diet,"Cold drinks, Dry snacks, Raw salads, Beans",Joint rest,Trikonasana,Bhramari,Swelling reduction
+acute pancreatitis,Pitta,Kapha,"Ushna, Drava",Agnyashaya,Bhunimba,Kwatha,Water,Pachan,"Bland, low fat","Spicy food, Alcohol, Red meat, Excessive salt",Strict fasting initially,Shavasana,Sheetali,Internal calm
+spinal stenosis,Vata,None,Sankocha (Narrowing),Majja Dhatu,Sahacharadi,Taila,Warm Milk,Vatanulomana,Vata-shaman diet,"Cold drinks, Dry snacks, Raw salads, Beans",Physiotherapy,Talasana,Anulom Vilom,Nerve space
+eczema,Pitta,Kapha,"Kandu, Daha",Rakta Dhatu,Khadir,Arishta,Water,Kushthagna,"Bitter, light food","Spicy food, Alcohol, Red meat, Excessive salt",Avoid allergens/soap,Surya Namaskar,Bhastrika,Skin purity
+injury to the leg,Vata,None,Abhighata,Mamsa Dhatu,Guggulu,Vati,Warm Water,Vedanasthapana,Nutritious proteins,"Cold drinks, Dry snacks, Raw salads, Beans",Elevation and rest,Janu Shirasasana,Nadi Shodhana,Lower body healing
+benign prostatic hyperplasia (bph),Vata,Kapha,"Stambha, Guru",Mutravaha Srotas,Varuna,Kwatha,Water,Ashmarihara,Pumpkin seeds,"Cold drinks, Dry snacks, Raw salads, Beans",Bladder training,Paschimottanasana,Ujjayi,Urinary flow
+noninfectious gastroenteritis,Vata,Pitta,"Laghu, Sara",Annavaha Srotas,Bilva,Churna,Buttermilk,Grahi,"Boiled water, Moong","Cold drinks, Dry snacks, Raw salads, Beans",Restful digestive system,Pavanamuktasana,Anulom Vilom,Abdominal peace
+acute bronchiolitis,Kapha,Vata,Srotorodha,Pranavaha Srotas,Kantakari,Avaleha,Honey,Kasahara,Warm soups,"Heavy dairy, Sweets, Fried food, Excessively cold items",Warm environment,Ushtrasana,Kapalbhati,Airway opening
+cholecystitis,Pitta,Kapha,"Tikshna, Guru",Pittashaya,Patola,Kwatha,Water,Pittasarak,"Fiber-rich, low fat","Spicy food, Alcohol, Red meat, Excessive salt",Weight management,Bhujangasana,Sheetali,Bile flow
+anxiety,Vata,None,"Chala, Laghu",Manovaha Srotas,Jatamansi,Churna/Oil,Milk,Nidrajanaka,"Fresh, warm food","Cold drinks, Dry snacks, Raw salads, Beans",Regular routine,Shavasana,Brahmari,Grounding
+obstructive sleep apnea (osa),Kapha,Vata,Srotorodha (Obstruction),Pranavaha Srotas,Vacha,Nasya,Honey,Lekhana,"Light dinner, Honey","Heavy dairy, Sweets, Fried food, Excessively cold items","Weight loss, Side sleeping",Sarvangasana,Ujjayi,Clear airways
+concussion,Vata,None,"Chala, Sukshma",Majja Dhatu,Brahmi,Ghrita,Warm Milk,Medhya,Easy to digest foods,"Cold drinks, Dry snacks, Raw salads, Beans",Sensory rest,Shavasana,Nadi Shodhana,Brain recovery
+dental caries,Kapha,Vata,Krimija,Danta (Teeth),Babool,Dantamanjan,Water,Krimighna,Avoid sugar,"Heavy dairy, Sweets, Fried food, Excessively cold items",Oil pulling (Gandusha),Simhasana,Sheetali,Oral health
+problem during pregnancy,Vata,Pitta,Garbhini Vyadhi,Rasa Dhatu,Amalaki,Rasayana,Milk,Pustivardhaka,"Sattvic, nutritious","Cold drinks, Dry snacks, Raw salads, Beans",Gentle walking,Tadasana,Nadi Shodhana,Motherhood joy
+sickle cell crisis,Vata,Rakta,"Ruksha, Chala",Rakta Dhatu,Manjistha,Kwatha,Water,Raktaprasadana,Hydrating foods,"Cold drinks, Dry snacks, Raw salads, Beans",Avoid extreme cold,Shavasana,Anulom Vilom,Blood oxygenation
+chronic constipation,Vata,None,"Ruksha, Khara",Purishavaha Srotas,Triphala,Churna,Warm water,Anulomana,"Papaya, Fibrous veg","Cold drinks, Dry snacks, Raw salads, Beans",Regular bowel habits,Malasana,Kapalbhati,Elimination
+sebaceous cyst,Kapha,Vata,Granthi,Meda Dhatu,Kanchanar,Guggulu,Warm water,Lekhana,Low fat diet,"Heavy dairy, Sweets, Fried food, Excessively cold items",Cleanliness,Paschimottanasana,Bhastrika,Cyst dissolution
+psoriasis,Vata,Kapha,"Ruksha, Khara",Rakta Dhatu,Aragvadha,Phant,Water,Kushthagna,Bitter greens,"Cold drinks, Dry snacks, Raw salads, Beans",Moisturizing with oils,Surya Namaskar,Sheetali,Cellular renewal
+depression,Kapha,Vata,"Tamas, Guru",Manovaha Srotas,Ashwagandha,Arishta,Water,Manoprasadana,"Fresh, colorful veg","Heavy dairy, Sweets, Fried food, Excessively cold items",Social engagement,Dhanurasana,Bhramari,Inner light
+hyperemesis gravidarum,Pitta,Vata,"Tikshna, Drava",Annavaha Srotas,Laja,Sattu/Water,Honey,Chardinigrahana,"Dry snacks, Ginger tea","Spicy food, Alcohol, Red meat, Excessive salt",Frequent small sips,Shavasana,Sheetali,Nausea relief
+pyogenic skin infection,Pitta,Kapha,Paka (Suppuration),Rakta Dhatu,Nimbi,Kwatha,Water,Raktashodhaka,Anti-inflammatory diet,"Spicy food, Alcohol, Red meat, Excessive salt",Antiseptic wash,Tadasana,Kapalbhati,Immune boost
+personality disorder,Sattva/Rajas/Tamas,Vata,Manasika,Manovaha Srotas,Saraswatarishta,Arishta,Water,Medhya,Sattvic diet,"Highly processed food, Refined sugar, Artificial additives",Psychotherapy (Aashwasana),Padmasana,Anulom Vilom,Self-realization
+developmental disability,Vata,Kapha,Buddhimandya,Majja Dhatu,Kalyanaka Ghrita,Ghrita,Milk,Medhya,Nutrient dense foods,"Cold drinks, Dry snacks, Raw salads, Beans",Occupational therapy,Vrikshasana,Nadi Shodhana,Cognitive growth
+otitis media,Kapha,Pitta,"Srava, Shoola",Karna (Ear),Apamarga,Kshara Taila,Instillation,Karnashulahara,"Warm, light food","Heavy dairy, Sweets, Fried food, Excessively cold items",Avoid ear picking,Simhasana,Bhramari,Auditory health
+seasonal allergies (hay fever),Kapha,Vata,"Chala, Drava",Pranavaha Srotas,Haridra Khanda,Granules,Warm Water,Kaphahara,"Spiced tea, Honey","Heavy dairy, Sweets, Fried food, Excessively cold items",Jala Neti,Surya Namaskar,Kapalbhati,Immune resilience
+multiple sclerosis,Vata,Kapha,Majja-kshaya,Majja Dhatu,Guduchi,Rasayana,Water,Vatashamana,Nerve nourishing diet,"Cold drinks, Dry snacks, Raw salads, Beans",Gentle movement,Shavasana,Anulom Vilom,Nerve protection
+urinary tract infection,Pitta,Vata,"Ushna, Tikshna",Mutravaha Srotas,Punarnava,Kwatha,Water,Mutrala,"Cranberry juice, Barley","Spices, Caffeine","Hygiene, Hydration",Bhujangasana,Sheetali,Bladder relaxation
+acute stress reaction,Vata,None,"Chala, Laghu",Manovaha Srotas,Ashwagandha,Arishta,Water,Nidrajanaka,"Warm milk, Almonds",Stimulants,"Routine, Nature walks",Shavasana,Brahmari,Present moment
+vaginitis,Kapha,Pitta,"Picchila, Vidahi",Artavavaha Srotas,Triphala,Varti/Wash,Water,Kandughna,"Yogurt, Probiotics",Sugary foods,"Cotton clothes, Hygiene",Baddha Konasana,Anulom Vilom,Sacral healing
+panic disorder,Vata,None,"Chala, Sukshma",Manovaha Srotas,Brahmi,Vati,Milk,Medhya,Warm oily food,"Cold drinks, Caffeine",Oil massage (Abhyanga),Vrikshasana,Nadi Shodhana,Grounding
+actinic keratosis,Pitta,Vata,"Khara, Ushna",Rakta Dhatu,Manjistha,Lep,Aloe Vera,Raktaprasadana,Cooling foods,Direct sunlight,Sun protection,Tadasana,Sheetali,Cellular repair
+degenerative disc disease,Vata,None,"Khara, Ruksha",Asthimajja Dhatu,Guggulu,Vati,Warm water,Sandhanaka,"Ghee, Warm milk",Dry foods,Posture correction,Setu Bandhasana,Anulom Vilom,Spine health
+macular degeneration,Pitta,Vata,Drishti-kshaya,Netra (Eyes),Saptamrit Lauha,Churna,Ghee/Honey,Chakshushya,"Amla, Carrots, Ghee","Screen time, Smoking",Palming eyes,Trataka,Nadi Shodhana,Visual clarity
+drug reaction,Pitta,None,"Vidahi, Tikshna",Rakta Dhatu,Sariva,Phant,Water,Vishagna,"Mung dal, Pomegranate","Sour, Spicy",Discontinue trigger,Shavasana,Sheetali,Detoxification
+contact dermatitis,Pitta,Kapha,"Kandu, Shotha",Twak (Skin),Neem,Taila/Kwatha,Water,Kushthagna,Bitter vegetables,"Allergens, Soap",Avoid triggers,Surya Namaskar,Bhastrika,Skin purification
+sinus bradycardia,Kapha,Vata,Manda (Slow),Hridaya (Heart),Arjuna,Ksheerpaka,Milk,Hridya,Warm spices,Heavy dairy,Light exercise,Trikonasana,Bhastrika,Heart rhythm
+sepsis,Sannipata,Rakta,"Vidahi, Drava",Sarvadeha (Whole body),Guduchi,Satva,Water,Jwarahara,Light gruel,Heavy foods,Absolute rest,Shavasana,Anulom Vilom,Immune strength
+eustachian tube dysfunction (ear disorder),Kapha,Vata,Srotorodha,Karna (Ear),Vacha,Nasya Oil,Honey or Warm water,Lekhana,"Warm food, Ginger",Cold drinks,Steam inhalation,Simhasana,Bhramari,Sound clarity
+conjunctivitis,Pitta,Kapha,Netra Abhishyanda,Netra (Eyes),Triphala,Netra Seka,Rose Water,Chakshushya,Cooling diet,"Dust, Smoke",Eye hygiene,Trataka,Sheetali,Ocular calm
+skin pigmentation disorder,Pitta,None,Vyanga,Bhrajaka Pitta,Bakuchi,Taila,Internal/External,Twachya,"Amla, Bitters","Sour, Salty food",Sunscreen use,Katichakrasana,Anulom Vilom,Skin tone balance
+acute kidney injury,Pitta,Vata,Mutra-sangha,Vrikka (Kidney),Varuna,Kwatha,Water,Mutrala,"Low protein, Low salt",High potassium,Fluid monitoring,Paschimottanasana,Sheetali,Renal flow
+pain after an operation,Vata,None,Shoola,Mamsa Dhatu,Shallaki,Vati,Warm water,Vedanasthapana,Easily digestible soup,Fiber-rich food,"Rest, Gentle breath",Shavasana,Bhramari,Surgical healing
+stye,Pitta,Kapha,Anjananamika,Netra-vartma,Haridra,Lep,Water,Lekhana,Cooling diet,Touching eyes,Warm compress,Trataka,Anulom Vilom,Eyelid health
+idiopathic irregular menstrual cycle,Vata,Pitta,Artava-vyapad,Artava Dhatu,Ashoka,Arishta,Water,Artavapravartini,Iron rich food,Fast food,Stress management,Baddha Konasana,Nadi Shodhana,Hormonal balance
+hemorrhoids,Vata,Pitta,Arsha,Guda (Rectum),Suran,Vati/Food,Warm water,Arshoghna,"Fiber, Papaya, Buttermilk","Spicy food, Meat",Avoid straining,Pavanamuktasana,Ashwini Mudra,Pelvic health
+herniated disk,Vata,None,Gridhrasi,Asthi-Majja Dhatu,Rasna,Sapti,Warm water,Vatashamana,"Warm, moist food",Heavy lifting,"Bed rest, Physio",Marjariasana,Anulom Vilom,Nerve decompression
+heart attack,Pitta,Vata,Hridroga,Rasa-Rakta Dhatu,Arjuna,Ksheerpaka,Milk,Hridya,"Oats, Fruits, Garlic","Cholesterol, Salt",Cardiac rehab,Shavasana,Bhramari,Heart vitality
+ear drum damage,Vata,None,Karnapatadi,Karna (Ear),Guggulu,Vati,Warm water,Sandhanaka,Soft foods,"Loud noise, Water in ear",Avoid ear buds,Simhasana,Anulom Vilom,Aural repair
+brachial neuritis,Vata,None,Vishwachi,Majja Dhatu,Bala,Taila,Warm Milk,Vatashamana,Nerve nourishing diet,Repetitive arm motion,Gentle stretching,Tadasana,Anulom Vilom,Nerve conduction
+acute sinusitis,Kapha,Vata,Pinasa,Nasa (Nose),Trikatu,Churna,Honey,Deepana/Pachana,"Warm fluids, Ginger","Dairy, Cold foods",Jala Neti,Adho Mukha Svanasana,Kapalbhati,Sinus drainage
+acute bronchospasm,Vata,Kapha,Tamaka Shwasa,Pranavaha Srotas,Vasa,Avaleha,Honey,Shwasahara,Warm water,"Allergens, Cold air",Steam inhalation,Dhanurasana,Ujjayi,Bronchial ease
+chronic obstructive pulmonary disease (copd),Kapha,Vata,Shwasa,Pranavaha Srotas,Kantakari,Grita,Warm water,Kasahara,"Light, warm food","Smoking, Pollution",Chest physiotherapy,Matsyasana,Deep breathing,Lung capacity
+hiatal hernia,Vata,None,Udavarta,Annavaha Srotas,Hing,Vati/Food,Warm water,Vatanulomana,Small meals,"Overeating, Caffeine",Elevated sleep head,Vajrasana,Anulom Vilom,Diaphragm ease
+idiopathic excessive menstruation,Pitta,None,Asrigdara,Rakta Dhatu,Lodhra,Kwatha,Honey,Stambhana,"Cooling, bitter food","Spicy, Salty food",Rest during cycle,Viparita Karani,Sheetali,Blood volume
+blepharitis,Kapha,Pitta,Pakshmaroga,Netra (Eyes),Triphala,Grita,Honey/Milk,Lekhana,"Clean, light diet",Eye makeup,Lid hygiene,Trataka,Anulom Vilom,Lid inflammation
+angina,Vata,Pitta,Hrit-shoola,Rasa Dhatu,Pushkarmoola,Churna,Warm water,Hridya,"Fiber-rich, low fat","Stress, Smoking",Regular walking,Shavasana,Bhramari,Coronary flow
+idiopathic painful menstruation,Vata,None,Kashtartava,Artavavaha Srotas,Dashmoola,Kwatha,Water,Vedanasthapana,"Warm fluids, Ginger",Cold food,Warm compress,Balasana,Nadi Shodhana,Uterine ease
+injury to the trunk,Vata,Pitta,Abhighata,Koshtha (Trunk),Laksha,Churna,Milk,Sandhanaka,Protein-rich diet,Physical exertion,Strict bed rest,Shavasana,Anulom Vilom,Core healing
+allergy,Pitta,Kapha,Sheetapitta,Rakta Dhatu,Haridra Khanda,Granules,Warm Water,Kandughna,"Light food, Bitters",Allergens,Avoid cold exposure,Surya Namaskar,Bhastrika,Immune balance
+threatened pregnancy,Vata,Pitta,Garbhasrava,Artava Dhatu,Garbhapala Ras,Vati,Milk,Garbhasthapana,"Milk, Ghee, Fruits",Physical strain,Absolute bed rest,Shavasana,Nadi Shodhana,Uterine stability
+common cold,Kapha,Vata,Pratishyaya,Nasa (Nose),Tulsi,Tea,Honey,Kaphahara,"Warm water, Ginger","Curd, Sweets",Steam inhalation,Dhanurasana,Kapalbhati,Mucus clearance
+asthma,Kapha,Vata,Tamaka Shwasa,Pranavaha Srotas,Bharangi,Grita/Churna,Honey,Shwasahara,"Warm, light meals","Pollution, Cold air",Avoid late dinner,Ushtrasana,Ujjayi,Breathing ease
+kidney stone,Vata,Kapha,Ashmari,Mutravaha Srotas,Pashanbhed,Kwatha,Water,Ashmarihara,High water intake,Oxalate rich foods,Regular exercise,Dhanurasana,Anulom Vilom,Stone dissolution
+croup,Kapha,Vata,Kantharoga,Pranavaha Srotas,Yastimadhu,Churna,Honey,Kanthya,Warm soups,Cold air exposure,Steam inhalation,Simhasana,Ujjayi,Throat relief
+otitis externa (swimmer's ear),Pitta,Kapha,Karnashotha,Karna (Ear),Neem,Taila,External,Krimighna,Anti-inflammatory diet,Water in ear,Dry ear care,Simhasana,Bhramari,Ear canal health
+gallstone,Pitta,Kapha,Pittashmari,Pittashaya,Katuki,Churna,Warm water,Pittasarak,"Low fat, High fiber",Fried foods,Maintain weight,Bhujangasana,Sheetali,Bile solubility
+pyelonephritis,Pitta,Vata,Vrikka-shotha,Mutravaha Srotas,Gokshura,Kwatha,Water,Shothahara,Hydrating diet,"Salt, Protein",Bed rest,Shavasana,Sheetali,Renal cooling
+cornea infection,Pitta,None,Shukra-roga,Netra (Eyes),Daruharidra,Anjana,Honey,Netrya,Cooling diet,"Dust, Direct light",Eye hygiene,Trataka,Anulom Vilom,Corneal repair
+appendicitis,Pitta,Kapha,Antarapradaha,Annavaha Srotas,Kutaja,Vati,Water,Shothahara,Liquid diet,Solid foods,Surgical evaluation,Shavasana,Anulom Vilom,Intestinal calm
+heart failure,Vata,Kapha,Hrid-balakshaya,Rasa Dhatu,Arjuna,Arishta,Water,Hridya,"Low salt, fiber diet",Fluid overload,Gradual activity,Shavasana,Bhramari,Heart strength
+hypertensive heart disease,Vata,Pitta,Raktachapa,Rakta Dhatu,Sarpagandha,Vati,Milk,Hridya,Low sodium diet,"Stress, Alcohol",Weight management,Vajrasana,Nadi Shodhana,Blood pressure
+rectal disorder,Vata,Pitta,Gudavikara,Purishavaha Srotas,Triphala,Gugulu,Warm water,Vatanulomana,High fiber diet,Straining,Sitz bath,Malasana,Ashwini Mudra,Rectal health
+psychotic disorder,Sattva/Rajas/Tamas,Vata,Unmada,Manovaha Srotas,Saraswatarishta,Arishta,Water,Medhya,Sattvic foods,Substance abuse,Counselling,Padmasana,Anulom Vilom,Mental balance
+neurosis,Vata,None,Atatvabhinivesha,Manovaha Srotas,Brahmi,Grita,Warm Milk,Medhya,"Warm, stable diet",Sensory overload,Yoga Nidra,Vrikshasana,Brahmari,Emotional stability
+pelvic inflammatory disease,Pitta,Kapha,Shroni Shotha,Artavavaha Srotas,Kanchanar,Guggulu,Warm water,Shothahara,Anti-inflammatory diet,Poor hygiene,Safe practices,Baddha Konasana,Anulom Vilom,Pelvic cooling
+chronic back pain,Vata,None,Kati-shoola,Asthi Dhatu,Yogaraja Guggulu,Vati,Warm water,Vedanasthapana,"Warm, oily food",Soft mattresses,Regular stretching,Marjariasana,Anulom Vilom,Lumbar health
+temporary or benign blood in urine,Pitta,Vata,"Ushna, Tikshna",Mutravaha Srotas,Vasa,Swarasa,Honey,Raktapittahara,"Cooling drinks, Grapes",Spicy food,Hydration,Bhujangasana,Sheetali,Bladder cooling
+skin polyp,Kapha,None,"Kathina, Guru",Mamsa Dhatu,Tankana,Lep,Honey,Lekhana,Light foods,Oily food,Local cleanliness,Surya Namaskar,Kapalbhati,Skin rejuvenation
+diaper rash,Pitta,None,"Daha, Shotha",Twak (Skin),Coconut Oil,Local application,Ghee or Cooling water,Daha-prashamana,Mother's sattvic diet,Acidic foods,Frequent diaper change,Shavasana (Baby),Natural breath,Skin soothing
+carpal tunnel syndrome,Vata,Kapha,"Stambha, Shoola",Snayu,Bala,Oil,Warm Milk,Vatashamana,"Warm, moist food",Cold exposure,Wrist exercises,Tadasana,Anulom Vilom,Nerve release
+osteoarthritis,Vata,None,"Khara, Ruksha",Asthi-Sandhi,Shallaki,Vati,Warm water,Sandhishothahara,"Ghee, Warm milk",Dry beans,Joint support,Trikonasana,Anulom Vilom,Joint integrity
+gum disease,Kapha,Pitta,"Srava, Shotha",Danta-mamsa,Triphala,Gargle,Warm water,Mukhashodhaka,"Clove, Turmeric",Sugar,Oil pulling,Simhasana,Sheetali,Oral hygiene
+schizophrenia,Vata,Pitta,Unmada,Manovaha Srotas,Brahmi,Grita,Warm Milk,Medhya,Sattvic diet,Addictive substances,Therapeutic support,Padmasana,Brahmari,Reality grounding
+ischemic heart disease,Vata,Kapha,Srotorodha,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,"Fiber, Garlic",Cholesterol foods,Walking,Shavasana,Bhramari,Myocardial flow
+smoking or tobacco addiction,Vata,Pitta,Vyasana,Manovaha Srotas,Ajwain,Arka/Seeds,Water,Madanaka,"Sattvic, Fresh juices",Tobacco,Yoga therapy,Tadasana,Bhastrika,Lungs detox
+fracture of the rib,Vata,None,Asthi-bhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium-rich diet,Physical strain,Rest,Shavasana,Nadi Shodhana,Structural repair
+seborrheic dermatitis,Kapha,Pitta,Darunaka,Twak (Skin),Neem,Taila,External,Kandughna,"Light food, Bitters","Oily, Spicy food",Scalp hygiene,Sarvangasana,Kapalbhati,Scalp health
+pulmonary embolism,Vata,Rakta,Srotorodha,Pranavaha Srotas,Guggulu,Vati,Warm water,Lekhana,"Light, warm food",High fat,Immediate medical care,Shavasana,Anulom Vilom,Circulatory flow
+seborrheic keratosis,Vata,Kapha,Charmakila,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Twachya,Antioxidant rich food,Processed sugar,Sun protection,Tadasana,Anulom Vilom,Skin health
+dry eye of unknown cause,Vata,None,Rukshata,Netra (Eyes),Triphala Ghrita,Internal/Eye drop,Warm Milk,Chakshushya,"Ghee, Carrots",Excessive screen time,Frequent blinking,Trataka,Sheetali,Ocular moisture
+bell palsy,Vata,None,Ardita,Majja Dhatu,Mashabaladi,Kwatha/Oil,Warm water,Vatashamana,"Warm, soft food",Cold wind exposure,Facial exercises,Simhasana,Anulom Vilom,Nerve restoration
+neuralgia,Vata,None,Vata-shoola,Majja Dhatu,Ashwagandha,Taila,Warm Milk,Vedanasthapana,Nerve nourishing foods,Cold drinks,Warm compresses,Shavasana,Bhramari,Nerve calming
+lipoma,Kapha,Meda,Granthi,Meda Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,"Low fat, high fiber",Fried foods,Exercise,Paschimottanasana,Bhastrika,Fat metabolism
+acute otitis media,Kapha,Pitta,Karnashotha,Karna (Ear),Bilva,Taila,Instillation,Shothahara,"Warm, light foods",Cold liquids,Keep ear dry,Simhasana,Brahmari,Aural health
+fungal infection of the skin,Kapha,None,Dadru,Twak (Skin),Chakramarda,Lep/Oil,Honey or Warm water,Krimighna,"Bitter, light foods","Sweet, fermented food",Personal hygiene,Surya Namaskar,Kapalbhati,Skin purity
+iron deficiency anemia,Pitta,Vata,Pandu,Rakta Dhatu,Punarnava Mandura,Vati,Buttermilk,Raktavardhaka,"Pomegranate, Spinach",Excessive tea/coffee,Regular exercise,Vrikshasana,Anulom Vilom,Blood vitality
+impetigo,Pitta,Kapha,Visarpa,Rakta Dhatu,Neem,Kwatha/Wash,Water,Raktashodhaka,"Cooling food, Bitters","Salty, Spicy",Wash linens regularly,Tadasana,Sheetali,Skin detox
+urinary tract obstruction,Vata,Kapha,Mutraghata,Mutravaha Srotas,Varuna,Kwatha,Water,Mutrala,"Barley, Watermelon",Astringent foods,Avoid holding urine,Bhujangasana,Ujjayi,Flow clearance
+gastroduodenal ulcer,Pitta,Vata,Parinama Shoola,Annavaha Srotas,Shatavari,Grita,Milk,Pitta-shaman,"Bland, cooling food","Chili, Alcohol",Frequent small meals,Vajrasana,Sheetali,Mucosal healing
+varicocele of the testicles,Vata,Kapha,Vridhi,Shukravaha Srotas,Kanchanar,Guggulu,Warm water,Lekhana,High fiber diet,Heavy lifting,Supportive underwear,Viparita Karani,Anulom Vilom,Venous health
+benign vaginal discharge (leukorrhea),Kapha,Vata,Shweta Pradara,Artavavaha Srotas,Lodhra,Kwatha,Honey,Grahi,"Nutritious, dry food","Sweet, heavy food",Genital hygiene,Baddha Konasana,Anulom Vilom,Pelvic balance
+oral thrush (yeast infection),Kapha,None,Mukha Paka,Mukhaprishta,Triphala,Gargle,Warm water,Kandughna,"Probiotics, Bitters","Sugar, Yeast",Oral hygiene,Simhasana,Ujjayi,Microbiome balance
+prostatitis,Vata,Pitta,Vatashthila,Mutravaha Srotas,Gokshura,Vati,Warm water,Shothahara,Hydrating diet,"Spicy food, Alcohol",Bladder habits,Paschimottanasana,Anulom Vilom,Prostate health
+sensorineural hearing loss,Vata,None,Badhirya,Majja Dhatu,Saraswata,Grita,Milk,Medhya,"Warm, oily foods",Loud noise,Karna Purana,Simhasana,Brahmari,Auditory nerve
+conjunctivitis due to virus,Kapha,Pitta,Abhishyanda,Netra (Eyes),Haridra,Eye wash,Rose Water,Netrya,"Light, warm food",Rubbing eyes,Wash hands,Trataka,Anulom Vilom,Ocular immunity
+flu,Vata,Kapha,Jwara,Rasa Dhatu,Laxmi Vilas Ras,Vati,Honey,Jwarahara,"Warm gruel, Soups","Dairy, Cold food",Total rest,Dhanurasana,Kapalbhati,Immune recovery
+conduct disorder,Rajas,Tamas,Manovikara,Manovaha Srotas,Jatamansi,Churna,Milk,Manoprasadana,Sattvic diet,"Fast food, TV",Behavioral therapy,Tadasana,Bhramari,Self-control
+gastritis,Pitta,None,Amlapitta,Annavaha Srotas,Avipattikara,Churna,Water,Pachana,"Cooling, alkaline food","Spicy, Sour food",Avoid skipping meals,Vajrasana,Sheetali,Digestive fire balance
+chalazion,Kapha,None,Utsangini,Netra-vartma,Triphala,Grita/Lep,Honey or Warm water,Lekhana,Low fat diet,Touching eyes,Warm compress,Trataka,Anulom Vilom,Eyelid health
+fracture of the leg,Vata,None,Asthibhanga,Asthi Dhatu,Hadjod,Churna/Capsule,Milk,Asthisandhanaka,"Protein, Calcium",Exertion,Immobilization,Shavasana,Anulom Vilom,Bone union
+muscle spasm,Vata,None,Mamsagata Vata,Mamsa Dhatu,Dhanwantharam,Oil,Warm Milk,Vatashamana,"Warm, cooked food",Strenuous exercise,Magnesium rich food,Talasana,Bhramari,Muscle relaxation
+tendinitis,Vata,Pitta,Snayu-shotha,Snayu,Shallaki,Vati,Warm water,Shothahara,Anti-inflammatory diet,Repetitive strain,Rest and ice,Sukshma Vyayama,Anulom Vilom,Tendon repair
+rosacea,Pitta,Rakta,Rakta-pitta,Rakta Dhatu,Sariva,Phant,Water,Raktaprasadana,Cooling food,"Alcohol, Spicy food",Avoid sun/heat,Tadasana,Sheetali,Vascular calm
+rheumatoid arthritis,Vata,Kapha,Amavata,Sandhi (Joints),Amritadi Guggulu,Vati,Warm water,Amapachana,"Light, warm food, Ginger","Curd, Cold food",Dry fomentation,Pavanamuktasana,Bhastrika,Toxin elimination
+ear wax impaction,Kapha,None,Karnapratinaha,Karna (Ear),Apamarga,Taila,Instillation,Lekhana,Light foods,Cold drinks,Avoid ear buds,Simhasana,Brahmari,Ear canal clearance
+laryngitis,Kapha,Pitta,Svarabheda,Kanthya,Yastimadhu,Churna,Honey,Kanthya,"Warm water, Turmeric","Shouting, Cold drinks",Voice rest,Simhasana,Ujjayi,Vocal cord healing
+chronic pain disorder,Vata,None,Vatavyadhi,Majja Dhatu,Bala-Ashwagandha,Oil/Milk,Milk,Vedanasthapana,"Warm, grounding food",Irregular sleep,"Routine, Massage",Yoga Nidra,Brahmari,Pain threshold
+corneal disorder,Pitta,Vata,Shukraroga,Netra (Eyes),Saptamrit Lauha,Vati,Honey/Ghee,Chakshushya,"Amla, Spinach",Rubbing eyes,Eye protection,Trataka,Anulom Vilom,Corneal integrity
+skin disorder,Pitta,Kapha,Kushtha,Rakta Dhatu,Khadira,Arishta,Water,Kushthagna,Bitter vegetables,Fermented foods,Avoid soaps,Surya Namaskar,Bhastrika,Skin purification
+mononeuritis,Vata,None,Ekanga Vata,Majja Dhatu,Maha Vatavidhwansan,Vati,Warm water,Vatashamana,"Warm, oily food",Cold wind,Physiotherapy,Tadasana,Anulom Vilom,Nerve stimulation
+hemangioma,Pitta,Rakta,Raktarbuda,Rakta Dhatu,Manjistha,Kwatha,Water,Raktashodhaka,Cooling diet,Excessive salt,Check growth,Shavasana,Sheetali,Blood vessel health
+ganglion cyst,Kapha,Vata,Granthi,Snayu,Kanchanar,Guggulu,Warm water,Lekhana,"Light, low fat diet",Repetitive motion,Wrist support,Sukshma Vyayama,Bhramari,Cyst reduction
+diverticulosis,Vata,None,Vatanulomana,Purishavaha Srotas,Isabgol,Husk,Warm water,Anulomana,High fiber diet,Refined flour,Regular movement,Pavanamuktasana,Anulom Vilom,Bowel regularity
+spondylolisthesis,Vata,None,Kati-shoola,Asthi Dhatu,Yogaraja Guggulu,Vati,Warm water,Sandhanaka,Anti-inflammatory diet,Heavy lifting,Core strengthening,Setu Bandhasana,Anulom Vilom,Spinal stability
+diabetic ketoacidosis,Pitta,Vata,Prameha-Upadrava,Sarvadeha,Nisha-Amalaki,Churna,Water,Pramehagna,"Light, low carb","Sugar, Sweets",Emergency hospital care,Shavasana,Anulom Vilom,Metabolic balance
+tooth disorder,Kapha,Vata,Danta Roga,Asthi Dhatu,Irimedadi,Taila,Oil pulling,Dantya,"Clove, Sesame",Sticky sweets,Brushing twice,Simhasana,Sheetali,Tooth enamel health
+paroxysmal ventricular tachycardia,Vata,Pitta,"Chala, Tikshna",Hridaya,Arjuna,Ksheer-paka,Milk,Hridya,"Oats, Berries","Caffeine, Salt",Stress management,Shavasana,Bhramari,Heart rhythm balance
+chronic otitis media,Kapha,Vata,Karna-srava,Karna (Ear),Guggulu,Vati,Warm water,Shothahara,"Warm, dry food",Cold dairy,Avoid ear moisture,Simhasana,Anulom Vilom,Hearing clarity
+tooth abscess,Pitta,Kapha,Vidradhi,Danta-mamsa,Triphala,Gargle/Kwatha,Honey,Pachan/Shothahara,"Soft, cool food","Spicy, Hard food",Clove oil application,Simhasana,Sheetali,Gingival healing
+insect bite,Pitta,None,Keeta-visha,Rakta Dhatu,Neem,Lep (Paste),Water,Vishagna,Cooling herbs,Pungent spices,Apply cold paste,Tadasana,Sheetali,Poison neutralization
+sciatica,Vata,None,Gridhrasi,Majja Dhatu,Rasna-erandadi,Kwatha,Warm water,Vatashamana,"Warm, unctuous food","Dry, cold food",Avoid heavy lifting,Bhujangasana,Anulom Vilom,Nerve decompression
+chronic glaucoma,Pitta,Vata,Adhimantha,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,"Amla, Spinach",Caffeine,Eye pressure monitoring,Trataka (Internal),Anulom Vilom,Ocular drainage
+alcohol withdrawal,Vata,Pitta,Madatyaya,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,Nutritious liquids,Alcohol,Hydration and rest,Shavasana,Brahmari,Mental stability
+bipolar disorder,Vata,Pitta,Unmada,Manovaha Srotas,Ashwagandha,Arishta,Water,Manoprasadana,"Sattvic, fresh food",Stimulants,Strict routine,Padmasana,Anulom Vilom,Mood regulation
+skin cancer,Vata,Pitta,Arbudha,Rakta Dhatu,Manjistha,Kwatha,Water,Raktashodhaka,Antioxidant diet,Processed food,Avoid UV exposure,Tadasana,Sheetali,Cellular integrity
+hyperkalemia,Vata,Pitta,Muttra-dosha,Rakta Dhatu,Punarnava,Kwatha,Water,Mutrala,Low potassium diet,"Bananas, Potatoes",Monitor electrolytes,Shavasana,Anulom Vilom,Electrolyte balance
+chronic sinusitis,Kapha,Vata,Peenasa,Nasa,Trikatu,Churna,Honey,Deepana,"Warm fluids, Garlic","Cold drinks, Curd",Steam and Nasya,Adho Mukha Svanasana,Kapalbhati,Sinus clearing
+fibromyalgia,Vata,None,Mamsagata Vata,Mamsa Dhatu,Guggulu,Vati,Warm water,Vedanasthapana,Anti-inflammatory diet,Caffeine,Regular gentle walk,Vajrasana,Brahmari,Pain acceptance
+transient ischemic attack,Vata,Pitta,Pakshaghata-purvaroopa,Majja Dhatu,Arjuna,Vati,Water,Hridya/Vatashamana,"Low salt, fiber",Saturated fats,Blood pressure control,Shavasana,Anulom Vilom,Brain circulation
+labyrinthitis,Vata,None,Bhrama,Karna (Inner ear),Ashwagandha,Ksheerpaka,Milk,Balya,"Sweet, warm food",Loud noise,Avoid sudden movement,Tadasana,Bhramari,Inner ear balance
+stroke,Vata,None,Pakshaghata,Majja Dhatu,Maha Vatavidhwansan,Vati,Warm water,Vatashamana,"Soft, warm food","Salt, Oil",Physiotherapy,Shavasana,Anulom Vilom,Neuro-regeneration
+vaginal yeast infection,Kapha,Pitta,Kaphaja Yonivyapad,Artavavaha Srotas,Triphala,Wash,Water,Krimighna,"Yogurt, Bitters","Sweets, Yeast",Keep area dry,Baddha Konasana,Anulom Vilom,Microbial balance
+cataract,Kapha,Vata,Linga-nasha,Netra (Eyes),Triphala,Grita,Honey/Milk,Chakshushya,"Amla, Ghee",Straining eyes,Regular eye checkup,Trataka,Sheetali,Lens clarity
+post-traumatic stress disorder (ptsd),Vata,None,Manas-shoka,Manovaha Srotas,Jatamansi,Churna,Milk,Medhya,"Warm, grounding food","Alcohol, Drugs","Counseling, routine",Vrikshasana,Nadi Shodhana,Emotional safety
+pleural effusion,Kapha,Vata,Dakodara (Lung context),Pranavaha Srotas,Punarnava,Kwatha,Water,Shothahara,"Warm, light food","Cold, heavy food",Avoid exertion,Matsyasana,Deep breathing,Fluid absorption
+deviated nasal septum,Vata,Kapha,Nasa-avapitha,Nasa (Nose),Anu Taila,Nasya,Warm Milk or Sesame oil,Lekhana,Warm food,Cold allergens,Nasal hygiene,Adho Mukha Svanasana,Kapalbhati,Nasal symmetry
+heart block,Vata,Kapha,Hrid-avarana,Hridaya,Arjuna,Arishta,Water,Hridya,Low cholesterol,Heavy fats,Regular walking,Shavasana,Brahmari,Conduction flow
+oral mucosal lesion,Pitta,None,Mukhapaka,Mukha (Mouth),Yastimadhu,Ghanvati/Gargle,Honey,Ropana,Cooling food,"Spices, Tobacco",Oral hygiene,Simhasana,Sheetali,Mucosal repair
+erectile dysfunction,Vata,None,Klaibya,Shukravaha Srotas,Ashwagandha,Churna/Leha,Milk,Vajikarana,"Nutritious, aphrodisiac","Alcohol, Smoking",Pelvic exercises,Paschimottanasana,Anulom Vilom,Vital energy
+ankylosing spondylitis,Vata,Kapha,Asthi-sandhigata Vata,Asthi Dhatu,Shilajit,Vati/Liquid,Warm water,Sandhanaka,Anti-inflammatory diet,Sedentary life,Stretching routine,Bhujangasana,Anulom Vilom,Spine flexibility
+ingrown toe nail,Pitta,Kapha,Kunakha,Mamsa Dhatu,Neem,Oil/Lep,Ghee or Cooling water,Ropana,Nutritious food,Tight footwear,Proper nail trimming,Tadasana,Anulom Vilom,Toe health
+drug abuse (opioids),Vata,Tamas,Ojo-kshaya,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,"Sattvic, fresh food",Drugs,De-addiction support,Padmasana,Bhastrika,Reclamation of self
+intracerebral hemorrhage,Pitta,Vata,Raktaja Rogas,Majja Dhatu,Guduchi,Satva,Water,Raktapittahara,"Cooling, bland food","Spices, Alcohol",Absolute rest,Shavasana,Sheetali,Vessel stability
+drug abuse,Vata,Rajas,Madatyaya,Manovaha Srotas,Ashwagandha,Arishta,Water,Medhya,"Nourishing, sattvic",Addictive agents,Rehabilitation,Vrikshasana,Anulom Vilom,Mental clarity
+viral exanthem,Pitta,Kapha,Visarpa,Rakta Dhatu,Sariva,Phant,Water,Raktaprasadana,"Liquid, cooling diet",Fermented foods,Fever management,Shavasana,Sheetali,Skin eruption recovery
+conductive hearing loss,Kapha,None,Badhirya,Karna (Ear),Apamarga,Taila,Ear drops,Lekhana,"Warm, light food","Sticky, cold food",Avoid ear blockages,Simhasana,Bhramari,Vibration flow
+delirium,Vata,Pitta,Sannipataja Unmada,Manovaha Srotas,Vacha,Churna,Honey,Medhya,"Light, warm food",Sensory overload,Calm environment,Shavasana,Anulom Vilom,Cognitive grounding
+parkinson disease,Vata,None,Kampa-vata,Majja Dhatu,Kapikachhu,Churna,Milk,Vatashamana,Nerve nourishing diet,"Cold, dry food",Balance exercises,Tadasana,Anulom Vilom,Motor coordination
+callus,Vata,Kapha,Kadara,Mamsa Dhatu,Tankana,Lep,Lemon juice,Lekhana,Low fat diet,Poor footwear,Regular foot soak,Tadasana,Anulom Vilom,Softening tissue
+social phobia,Vata,Rajas,Manas-bhaya,Manovaha Srotas,Saraswatarishta,Arishta,Water,Medhya,"Fresh, light food",Stimulants,Social exposure therapy,Padmasana,Brahmari,Social confidence
+interstitial lung disease,Vata,Kapha,Shwasa,Pranavaha Srotas,Pushkarmoola,Churna,Honey,Shwasahara,Nerve/Lung nourishing,Pollutants,Oxygen therapy,Matsyasana,Deep breathing,Lung elasticity
+epididymitis,Pitta,Kapha,Vridhi-shotha,Shukravaha Srotas,Punarnava,Kwatha,Water,Shothahara,Anti-inflammatory,Physical strain,Scrotal support,Viparita Karani,Anulom Vilom,Reproductive health
+molluscum contagiosum,Kapha,Pitta,Charmakila,Rakta Dhatu,Neem,Oil/Lep,External,Krimighna,Anti-viral diet,Touching lesions,Personal hygiene,Surya Namaskar,Kapalbhati,Skin immunity
+injury to the shoulder,Vata,None,Amsa-shoola,Snayu,Shallaki,Vati,Warm water,Vedanasthapana,Protein-rich diet,Sudden movements,Shoulder immobilization,Tadasana,Anulom Vilom,Joint healing
+alcohol abuse,Pitta,Vata,Madatyaya,Yakrit (Liver),Bhunimba,Kwatha,Water,Yakrit-uttejaka,Bitter vegetables,Alcohol,Group support,Vajrasana,Sheetali,Liver detox
+irritable bowel syndrome,Vata,Pitta,Grahani,Annavaha Srotas,Bilva,Churna,Buttermilk,Deepana/Pachana,"Probiotic, light food","Raw salad, Beans",Stress reduction,Pavanamuktasana,Anulom Vilom,Digestive rhythm
+sialoadenitis,Kapha,Pitta,Mukha-shotha,Rasa Dhatu,Triphala,Gargle,Warm water,Mukhashodhaka,Hydrating liquids,"Sour, spicy food",Lemon juice stimulation,Simhasana,Ujjayi,Salivary flow
+attention deficit hyperactivity disorder (adhd),Vata,Rajas,Chala-manas,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,"Grounding, warm food",Sugary snacks,Structured routine,Vrikshasana,Nadi Shodhana,Attention focus
+lymphedema,Kapha,None,Shlipada (contextual),Rasa Dhatu,Punarnava,Guggulu,Warm water,Shothahara,"Low salt, high fiber",Standing long hours,Compression therapy,Viparita Karani,Anulom Vilom,Lymphatic drainage
+onychomycosis,Kapha,Vata,Kunakha,Rakta Dhatu,Neem,Oil,External,Krimighna,Low sugar diet,Moist footwear,Nail hygiene,Tadasana,Kapalbhati,Nail health
+mitral valve disease,Vata,Kapha,Hridroga,Hridaya,Arjuna,Ksheer-paka,Milk,Hridya,Cardiovascular diet,Heavy salt,Cardiovascular checkups,Shavasana,Bhramari,Valve function
+itching of unknown cause,Kapha,Pitta,Kandu,Rakta Dhatu,Haridra,Churna,Warm water,Kandughna,"Bitter, light food",Allergens,Aloe vera application,Tadasana,Sheetali,Skin sensation
+hemiplegia,Vata,None,Pakshaghata,Majja Dhatu,Bala-Ashwagandha,Taila,Milk,Balya/Vatashamana,Nerve nourishing,Cold drinks,Regular massage,Shavasana,Anulom Vilom,Motor recovery
+white blood cell disease,Pitta,Rakta,Raktaja-vyadhi,Rakta Dhatu,Guduchi,Satva,Water,Raktashodhaka,Immune boosting,Junk food,Avoid infections,Vrikshasana,Anulom Vilom,Immune balance
+adjustment reaction,Vata,None,Manas-shoka,Manovaha Srotas,Ashwagandha,Churna,Warm Milk,Medhya,"Comforting, warm food",Loneliness,Social support,Shavasana,Nadi Shodhana,Adaptability
+breast infection (mastitis),Pitta,Kapha,Stana-vidradhi,Mamsa Dhatu,Kanchanar,Guggulu,Warm water,Shothahara,Anti-inflammatory,Poor latching,Warm compress,Tadasana,Anulom Vilom,Lactation health
+corneal abrasion,Pitta,Vata,Netra-kshata,Netra (Eyes),Triphala,Grita,Honey/Milk,Ropana,Cooling food,Eye rubbing,Eye patch,Trataka,Anulom Vilom,Tissue regeneration
+dysthymic disorder,Kapha,Vata,Alpa-sattva,Manovaha Srotas,Ashwagandha,Arishta,Water,Manoprasadana,Nutritious fresh food,Processed food,Regular exercise,Vrikshasana,Bhramari,Emotional steadying
+ovarian cyst,Kapha,Vata,Granthi,Artavavaha Srotas,Kanchanar,Guggulu,Warm water,Lekhana,"Low fat, high fiber",Fried foods,Maintain weight,Baddha Konasana,Ujjayi,Ovarian health
+glaucoma,Pitta,Vata,Adhimantha,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,"Amla, Spinach",Caffeine,Eye pressure monitoring,Trataka,Anulom Vilom,Intraocular balance
+pulmonary congestion,Kapha,Vata,Srotorodha,Pranavaha Srotas,Pushkarmoola,Churna,Honey,Shwasahara,Warm liquids,Cold food,Steam inhalation,Dhanurasana,Kapalbhati,Lung clearance
+acne,Pitta,Kapha,Yuvana-pidaka,Rakta Dhatu,Sariva,Phant,Water,Raktashodhaka,Bitter vegetables,"Oily, spicy food",Face hygiene,Surya Namaskar,Sheetali,Skin purification
+iridocyclitis,Pitta,None,Netra-daha,Netra (Eyes),Triphala,Grita,Honey,Daha-prashamana,Cooling diet,Direct light,Rest eyes,Trataka,Sheetali,Iris recovery
+urge incontinence,Vata,None,Mutra-atpravritti,Mutravaha Srotas,Gokshura,Vati,Water,Vatashamana,Hydrating diet,"Caffeine, Alcohol",Bladder training,Mula Bandha,Anulom Vilom,Sphincter control
+hyponatremia,Vata,Kapha,Dhatukshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,Salt-balanced diet,Excessive water intake,Monitor fluids,Tadasana,Anulom Vilom,Sodium balance
+eating disorder,Vata,Rajas,Mano-vikara,Annavaha Srotas,Brahmi,Grita,Milk,Medhya,"Warm, small meals",Binge eating,Therapy,Padmasana,Brahmari,Body positivity
+postpartum depression,Vata,Kapha,Sutika-vada,Manovaha Srotas,Ashwagandha,Ksheerpaka,Milk,Balya,"Nourishing, warm food",Isolation,Family support,Balasana,Nadi Shodhana,Motherhood calm
+idiopathic absence of menstruation,Vata,Kapha,Anartava,Artava Dhatu,Kumari Asava,Arishta,Water,Artavapravartini,Iron rich food,Cold food,Stress management,Baddha Konasana,Anulom Vilom,Cycle restoration
+hypokalemia,Vata,None,Dhatukshaya,Rasa Dhatu,Amalaki,Churna,Water,Balya,Potassium-rich food (Banana),Excessive salt,Electrolyte check,Shavasana,Anulom Vilom,Potassium balance
+yeast infection,Kapha,Pitta,Krimija,Rakta Dhatu,Neem,Varti/Wash,Water,Krimighna,"Probiotics, Bitters","Sweets, Yeast",Dry hygiene,Baddha Konasana,Kapalbhati,Yeast control
+diabetic retinopathy,Pitta,Vata,Prameha-Netraroga,Netra (Eyes),Saptamrit Lauha,Vati,Honey/Ghee,Chakshushya,Low glycemic diet,Sugary foods,Blood sugar control,Trataka,Sheetali,Retinal health
+envenomation from spider or animal bite,Pitta,Rakta,Visha,Rakta Dhatu,Bilvadi,Vati,Water,Vishagna,Cooling fluids,Spicy food,Apply cold paste,Shavasana,Sheetali,Antidote action
+injury to the face,Pitta,Vata,Abhighata,Twak/Mamsa,Haridra,Lep,Ghee or Cooling water,Ropana,Nutritious soft food,Hard food,Local care,Shavasana,Anulom Vilom,Facial healing
+bladder disorder,Vata,Pitta,Mutrashaya Roga,Mutravaha Srotas,Punarnava,Kwatha,Water,Mutrala,Hydrating foods,Caffeine,Avoid suppression,Bhujangasana,Anulom Vilom,Bladder tone
+food allergy,Pitta,Kapha,Asatmya,Annavaha Srotas,Haridra Khanda,Granules,Warm Water,Vishagna,Bland diet,Allergenic food,Identify triggers,Vajrasana,Bhastrika,Immune tolerance
+balanitis,Pitta,Kapha,Shishnapaka,Mamsa Dhatu,Neem,Kwatha Wash,Water,Shothahara,Anti-inflammatory diet,Irritants,Local hygiene,Tadasana,Sheetali,Tissue health
+obsessive compulsive disorder (ocd),Vata,Rajas,Atichintana,Manovaha Srotas,Brahmi,Vati,Milk,Medhya,"Sattvic, grounding food",Stimulants,CBT/Yoga,Padmasana,Anulom Vilom,Mental flexibility
+viral warts,Kapha,Vata,Charmakila,Mamsa Dhatu,Tankana,Lep,Honey or Warm water,Lekhana,Low sugar diet,Touching warts,Keep area clean,Surya Namaskar,Kapalbhati,Viral clearance
+eye alignment disorder,Vata,None,Drishti-dosha,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,Eye-strengthening foods,Excessive screen time,Eye exercises,Trataka,Anulom Vilom,Ocular coordination
+urethritis,Pitta,Vata,Mutrakrichra,Mutravaha Srotas,Gokshura,Kwatha,Water,Shothahara,Hydrating diet,Spicy food,High water intake,Bhujangasana,Sheetali,Urethral cooling
+lymphadenitis,Kapha,Pitta,Granthi-shotha,Rasa Dhatu,Kanchanar,Guggulu,Warm water,Shothahara,"Light, warm food","Heavy, cold food",Warm compress,Tadasana,Anulom Vilom,Lymphatic flow
+autism,Vata,Kapha,Unmada (contextual),Manovaha Srotas,Saraswata Ghrita,Grita,Milk,Medhya,"Fresh, nutrient dense food","Additives, Sugar",Sensory therapy,Vrikshasana,Nadi Shodhana,Neurological growth
+diabetic peripheral neuropathy,Vata,None,Suptata,Majja Dhatu,Ashwagandha,Taila,Warm Milk,Vatashamana,"Low carb, nutrient rich",Sugar,Foot care,Tadasana,Anulom Vilom,Nerve sensation
+spondylitis,Vata,Kapha,Greeva-stambha,Asthi Dhatu,Yogaraja Guggulu,Vati,Warm water,Vedanasthapana,Anti-inflammatory diet,Poor posture,Regular stretching,Marjariasana,Anulom Vilom,Spine health
+thrombophlebitis,Rakta,Vata,Siragranthi,Rakta Dhatu,Guggulu,Vati,Warm water,Lekhana,"Low fat, high fiber",Standing for long,Elevation of legs,Viparita Karani,Sheetali,Venous flow
+acute respiratory distress syndrome (ards),Vata,Kapha,Pranavaha Srotodhara,Pranavaha Srotas,Vasa,Swarasa,Honey,Shwasahara,Light fluids,Solid food,Oxygen support,Shavasana,Ujjayi,Lung aeration
+aortic valve disease,Vata,Kapha,Hridroga,Hridaya,Arjuna,Ksheer-paka,Milk,Hridya,Low sodium diet,Caffeine,Regular checkups,Shavasana,Bhramari,Valve integrity
+uterine fibroids,Kapha,Vata,Granthi,Artavavaha Srotas,Kanchanar Guggulu,Vati,Warm water,Lekhana,"Low fat, anti-inflammatory",Estrogenic foods,Weight control,Baddha Konasana,Kapalbhati,Uterine tone
+herpangina,Pitta,Kapha,Mukha-paka,Rasa Dhatu,Yastimadhu,Churna,Honey,Ropana,"Soft, cool food","Citrus, Spices",Gargling,Simhasana,Sheetali,Pharyngeal relief
+joint effusion,Kapha,Vata,Sandhi-shotha,Sandhi (Joints),Punarnava,Kwatha,Water,Shothahara,Low salt diet,Heavy exercise,Rest and wrap,Sukshma Vyayama,Anulom Vilom,Fluid balance
+ileus,Vata,None,Anaha,Annavaha Srotas,Hingwashtak,Churna,Warm water,Vatanulomana,Liquids initially,Solid food,Movement,Pavanamuktasana,Anulom Vilom,Gut motility
+fracture of the facial bones,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,"Liquid, soft diet",Hard food,Avoid pressure,Shavasana,Anulom Vilom,Facial structure
+gastroesophageal reflux disease (gerd),Pitta,Vata,Amlapitta,Annavaha Srotas,Avipattikara,Churna,Water,Pachana,"Alkaline, bland food","Spicy, Caffeine",Elevated sleep head,Vajrasana,Sheetali,Esophageal calm
+myopia,Vata,None,Drishti-dosha,Netra (Eyes),Triphala,Grita,Milk,Chakshushya,"Amla, Vitamin A food",Screen time,Palming,Trataka,Anulom Vilom,Visual acuity
+indigestion,Kapha,Vata,Ajirna,Annavaha Srotas,Trikatu,Churna,Honey,Deepana/Pachana,"Ginger tea, Warm food","Heavy, oily food",Don't overeat,Vajrasana,Bhastrika,Digestive fire
+dermatitis due to sun exposure,Pitta,None,Surya-tapita Twak,Rakta Dhatu,Aloe Vera,Gel/Juice,Water,Daha-prashamana,Cooling food,Sun exposure,Use protection,Tadasana,Sheetali,Skin cooling
+pulmonary hypertension,Vata,Kapha,Hrid-Pranavaha,Pranavaha Srotas,Arjuna,Vati,Water,Hridya,Low sodium diet,High altitude,Oxygen care,Shavasana,Anulom Vilom,Pulmonary flow
+tonsillitis,Kapha,Pitta,Tundikeri,Rasa Dhatu,Haridra,Gargle,Honey,Shothahara,Warm liquids,Cold food,Warm salt gargle,Simhasana,Ujjayi,Throat health
+intestinal obstruction,Vata,Kapha,Srotorodha,Annavaha Srotas,Triphala,Kwatha,Warm water,Anulomana,NPO / Liquids,Solid food,Medical monitoring,Pavanamuktasana,Anulom Vilom,Blockage release
+benign paroxysmal positional vertical (bppv),Vata,None,Bhrama,Majja Dhatu,Ashwagandha,Ksheerpaka,Milk,Vatashamana,Steadying food,Sudden head turn,Epley maneuver,Tadasana,Brahmari,Equilibrium
+choledocholithiasis,Pitta,Kapha,Pittashmari,Yakrit-Pleeha,Katuki,Churna,Water,Pittasarak,"Low fat, fibrous",Fatty foods,Maintain weight,Bhujangasana,Sheetali,Duct clearance
+teething syndrome,Kapha,Vata,Dantodbhava,Asthi Dhatu,Amalaki,Churna/Honey,Honey,Balya,"Soft, cool food",Hard food,Gum massage,Shavasana (Baby),Natural breath,Eruption ease
+pelvic organ prolapse,Vata,None,Yonivyapad,Mamsa Dhatu,Ashwagandha,Churna,Milk,Balya,High fiber diet,Heavy lifting,Kegel exercises,Viparita Karani,Mula Bandha,Pelvic floor tone
+atrophic skin condition,Vata,None,Twak-kshaya,Twak (Skin),Shatavari,Ghrita,Milk,Rasayana,"Hydrating, oily food",Dry food,Oil massage,Tadasana,Anulom Vilom,Skin nourishment
+paronychia,Pitta,Kapha,Kunakha-shotha,Mamsa Dhatu,Neem,Oil/Lep,Ghee or Cooling water,Ropana,Anti-inflammatory,Biting nails,Keep area dry,Tadasana,Anulom Vilom,Nail bed health
+fracture of the arm,Vata,None,Asthibhanga,Asthi Dhatu,Hadjod,Churna,Milk,Sandhanaka,"Calcium, protein",Exertion,Sling/Cast,Shavasana,Anulom Vilom,Bone union
+oppositional disorder,Vata,Rajas,Manasika-Dosha,Manovaha Srotas,Brahmi,Vati,Milk,Medhya,"Sattvic, fresh food",Stimulants,Behavioral therapy,Padmasana,Anulom Vilom,Self-regulation
+hypovolemia,Vata,None,Dhatu-kshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,Hydrating liquids,Dehydration,Fluid intake monitoring,Tadasana,Anulom Vilom,Volume restoration
+abdominal hernia,Vata,None,Antra-vriddhi,Mamsa Dhatu,Triphala,Churna,Warm water,Anulomana,High fiber diet,Straining,Supportive belt,Shavasana,Nadi Shodhana,Abdominal integrity
+inguinal hernia,Vata,None,Antra-vriddhi,Mamsa Dhatu,Sukumar Ghrita,Ghrita,Warm water,Vatashamana,Non-constipating food,Heavy lifting,Abdominal support,Shavasana,Anulom Vilom,Hernia management
+pain disorder affecting the neck,Vata,None,Greevastambha,Asthi Dhatu,Prasaranyadi,Taila,External/Warm water,Vedanasthapana,"Warm, oily food",Cold wind,Posture correction,Marjariasana,Anulom Vilom,Cervical comfort
+cervicitis,Pitta,Kapha,Yonivyapad,Artavavaha Srotas,Lodhra,Kwatha,Water,Shothahara,Anti-inflammatory,Spicy food,Local hygiene,Baddha Konasana,Anulom Vilom,Cervical healing
+intestinal disease,Vata,Pitta,Antra-roga,Annavaha Srotas,Bilva,Churna,Buttermilk,Grahi,"Light, cooked food",Raw food,Regular habits,Pavanamuktasana,Anulom Vilom,Digestive health
+athlete's foot,Kapha,Pitta,Alasa,Twak (Skin),Neem,Oil/Lep,Honey or Warm water,Krimighna,"Bitter, light food",Moisture,Keep feet dry,Tadasana,Kapalbhati,Skin fungal control
+peritonitis,Sannipata,None,Antarapradaha,Sarva-deha,Guduchi,Satva,Water,Jwarahara/Vishagna,Liquid diet,Solid foods,Emergency care,Shavasana,Anulom Vilom,Peritoneal calm
+shingles (herpes zoster),Pitta,Vata,Visarpa,Rakta Dhatu,Sariva,Phant,Water,Raktaprasadana,"Cooling, bland food",Pungent food,Isolation/Rest,Shavasana,Sheetali,Neuralgic relief
+endometriosis,Vata,Pitta,Artava-vikara,Artavavaha Srotas,Ashoka,Arishta,Water,Artavapravartini,"Warm, anti-inflammatory","Cold, spicy food",Pain management,Baddha Konasana,Nadi Shodhana,Hormonal balance
+osteoporosis,Vata,None,Asthi-saushirya,Asthi Dhatu,Laksha,Guggulu,Milk,Asthibalya,Calcium-rich diet,Excessive salt,Weight-bearing activity,Trikonasana,Anulom Vilom,Bone density
+ulcerative colitis,Pitta,Vata,Raktatishara,Purishavaha Srotas,Kutaja,Arishta,Water,Grahi/Ropana,"Soft, cooling food",Fiber (during flare),Stress reduction,Vajrasana,Sheetali,Colonic healing
+crohn disease,Vata,Pitta,Grahani,Annavaha Srotas,Bilva,Vati,Buttermilk,Deepana/Pachana,"Warm, moist food",Raw salad,Probiotics,Pavanamuktasana,Anulom Vilom,Intestinal absorption
+paroxysmal supraventricular tachycardia,Vata,Pitta,Hrid-twarata,Hridaya,Arjuna,Vati,Water,Hridya,"Oats, Fruits","Caffeine, Nicotine",Vagal maneuvers,Shavasana,Brahmari,Heart rate control
+missed abortion,Vata,None,Garbhashosha,Artava Dhatu,Ashwagandha,Ksheerpaka,Milk,Balya,Highly nutritious,Stress,Grief counseling,Shavasana,Nadi Shodhana,Uterine recovery
+hepatitis due to a toxin,Pitta,None,Yakrit-shotha,Yakrit (Liver),Bhunimba,Kwatha,Water,Vishagna/Yakrit-uttejaka,"Bitter, light food","Alcohol, Fats",Rest,Katichakrasana,Sheetali,Liver detox
+nasal polyp,Kapha,Vata,Nasarshas,Nasa (Nose),Anu Taila,Nasya,Honey or Warm water,Lekhana,"Warm food, Honey","Dairy, Cold food",Nasal hygiene,Adho Mukha Svanasana,Kapalbhati,Airway clearance
+alcohol intoxication,Pitta,Vata,Madatyaya,Manovaha Srotas,Draksharishta,Arishta,Water,Madanaka-hara,Hydrating liquids,Alcohol,Recovery fluids,Shavasana,Sheetali,Sobriety grounding
+cardiac arrest,Sannipata,None,Hrid-stambha,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,Cardioprotective food,High salt,Emergency CPR,Shavasana,Anulom Vilom,Life force
+temporomandibular joint disorder,Vata,None,Hanustambha,Asthi Dhatu,Prasaranyadi,Taila,External,Vatashamana,"Soft, warm food",Hard food,Jaw relaxation,Simhasana,Brahmari,TMJ balance
+ectopic pregnancy,Vata,Pitta,Garbhavikara,Artavavaha Srotas,None (Surgical),Immediate Medical,Warm Milk or Sesame oil,Shamana (Pacification) and Dhatu-poshana (Tissue nourishment),"Liquid, soft food",Exertion,Emergency surgery,Shavasana,Anulom Vilom (Alternate Nostril Breathing),Recovery focus
+vitreous degeneration,Vata,None,Drishti-kshaya,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Rasayana,Vitamin A food,Screen time,Regular eye exam,Trataka,Anulom Vilom,Visual clarity
+abscess of the pharynx,Pitta,Kapha,Kantha-vidradhi,Rasa Dhatu,Triphala,Gargle,Honey,Shothahara/Pachana,Warm fluids,Spicy food,Warm salt gargle,Simhasana,Ujjayi,Throat relief
+alopecia,Pitta,Vata,Indralupta,Asthi Dhatu (Hair),Bhringraj,Taila/Churna,Water,Keshyam,"Iron, Protein rich",Excessive salt,Scalp massage,Sarvangasana,Anulom Vilom,Hair growth
+hydronephrosis,Vata,Kapha,Mutraghata,Mutravaha Srotas,Punarnava,Kwatha,Water,Mutrala,Hydrating foods,Salt,Bladder drainage,Bhujangasana,Anulom Vilom,Renal flow
+cranial nerve palsy,Vata,None,Ardita (contextual),Majja Dhatu,Mashabaladi,Kwatha,Warm water,Vatashamana,Nerve nourishing,Cold wind,Nerve stimulation,Simhasana,Anulom Vilom,Nerve function
+pilonidal cyst,Kapha,Pitta,Granthi-vidradhi,Mamsa Dhatu,Kanchanar,Guggulu,Warm water,Lekhana/Ropana,"Low fat, high fiber",Sedentary life,Local hygiene,Tadasana,Kapalbhati,Tissue integrity
+colonic polyp,Kapha,Vata,Antrarshas,Purishavaha Srotas,Kanchanar Guggulu,Vati,Warm water,Lekhana,Fiber-rich diet,Refined flour,Bowel regularity,Pavanamuktasana,Kapalbhati,Cellular balance
+dementia,Vata,Kapha,Smriti-bhramsha,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,"Warm, grounding food",Sensory overload,Cognitive exercises,Vrikshasana,Nadi Shodhana,Mental focus
+trichomonas infection,Kapha,Pitta,Yonivyapad,Artavavaha Srotas,Triphala,Varti,Water,Krimighna,Anti-inflammatory,Sugary foods,Partner treatment,Baddha Konasana,Anulom Vilom,Microbial health
+tonsillar hypertrophy,Kapha,None,Tundikeri,Rasa Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,"Warm water, Honey",Cold drinks,Warm salt gargle,Simhasana,Ujjayi,Tonsil reduction
+scleroderma,Vata,Kapha,Twak-stambha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana/Vatashamana,"Warm, unctuous food",Cold exposure,Skin massage,Tadasana,Sheetali,Tissue flexibility
+bladder obstruction,Vata,Kapha,Mutra-avarodha,Mutravaha Srotas,Varuna,Kwatha,Water,Mutrala,Hydrating foods,Caffeine,Regular voiding,Bhujangasana,Anulom Vilom,Urinary flow
+asperger syndrome,Vata,Rajas,Unmada (contextual),Manovaha Srotas,Brahmi,Grita,Milk,Medhya,Structured diet,Artificial additives,Social skills training,Vrikshasana,Brahmari,Social harmony
+lateral epicondylitis (tennis elbow),Vata,None,Snayu-shoola,Snayu,Shallaki,Vati,Warm water,Shothahara,Anti-inflammatory,Repetitive motion,Rest and brace,Sukshma Vyayama,Anulom Vilom,Tendon comfort
+alzheimer disease,Vata,Tamas,Smriti-nasha,Manovaha Srotas,Saraswata Ghrita,Ghrita,Milk,Medhya,Nerve nourishing,Processed food,Safe routine,Padmasana,Anulom Vilom,Cognitive clarity
+jaw disorder,Vata,None,Hanustambha,Asthi Dhatu,Dashmoola,Kwatha,Warm water,Vatashamana,Soft food,Gum chewing,Jaw exercises,Simhasana,Brahmari,Mandibular ease
+venous insufficiency,Vata,Kapha,Siragranthi,Rakta Dhatu,Punarnava,Guggulu,Warm water,Lekhana,"Low salt, fiber",Long standing,Elevation of legs,Viparita Karani,Anulom Vilom,Venous return
+impulse control disorder,Rajas,None,Mano-vega,Manovaha Srotas,Jatamansi,Churna,Milk,Manoprasadana,Sattvic food,Violent media,Mindfulness training,Padmasana,Anulom Vilom,Self-mastery
+tietze syndrome,Vata,Pitta,Ura-shoola,Asthi Dhatu,Shallaki,Vati,Warm water,Shothahara,Warm fluids,Heavy lifting,Rest,Shavasana,Anulom Vilom,Chest comfort
+cirrhosis,Pitta,Vata,Yakrit-dalyudara,Yakrit (Liver),Katuki,Churna,Water,Yakrit-uttejaka,"Bitter, light food",Alcohol,Strict rest,Katichakrasana,Sheetali,Liver recovery
+mononucleosis,Pitta,Kapha,Jwara-shotha,Rasa Dhatu,Guduchi,Satva,Water,Jwarahara,"Light fluids, Honey",Physical exertion,Long rest,Shavasana,Anulom Vilom,Immune recovery
+anemia,Pitta,Vata,Pandu,Rakta Dhatu,Punarnava Mandura,Vati,Buttermilk,Raktavardhaka,"Iron-rich, Amla",Excess tea,Daily walk,Vrikshasana,Anulom Vilom,Blood vitality
+drug abuse (methamphetamine),Vata,Rajas,Ojo-kshaya,Manovaha Srotas,Ashwagandha,Ghrita,Milk,Rasayana/Medhya,"Nourishing, sattvic",Drugs,De-addiction support,Padmasana,Bhastrika,Vital restoration
+sarcoidosis,Kapha,Vata,Granthi-roga,Rasa Dhatu,Kanchanar Guggulu,Vati,Warm water,Shothahara,Anti-inflammatory,Smoking,Lung care,Matsyasana,Deep breathing,Immune modulation
+atrophic vaginitis,Vata,None,Yonishosha,Artavavaha Srotas,Shatavari,Ghrita,Milk,Balya/Rasayana,"Oily, warm food",Dry food,Local oiling (Pichu),Baddha Konasana,Anulom Vilom,Vaginal hydration
+fluid overload,Kapha,None,Shotha,Rasa Dhatu,Punarnava,Kwatha,Water,Mutrala,Low salt diet,Excess fluids,Monitor weight,Viparita Karani,Anulom Vilom,Fluid balance
+head and neck cancer,Vata,Kapha,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana/Vishagna,Antioxidant rich,Tobacco,Radiation care,Shavasana,Anulom Vilom,Cellular repair
+premature ventricular contractions (pvcs),Vata,Pitta,Hrid-kampa,Hridaya,Arjuna,Vati,Water,Hridya,"Balanced, warm food","Stress, Caffeine",Relaxation,Shavasana,Bhramari,Cardiac rhythm
+intracranial hemorrhage,Pitta,Vata,Raktaja-roga,Majja Dhatu,Sariva,Phant,Water,Raktapittahara,"Cooling, bland food","Alcohol, Spices",Absolute rest,Shavasana,Sheetali,Vessel stability
+astigmatism,Vata,None,Drishti-dosha,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,Vitamin A foods,Screen strain,Palming,Trataka,Anulom Vilom,Refractive balance
+urethral disorder,Pitta,Vata,Mutrakrichra,Mutravaha Srotas,Gokshura,Kwatha,Water,Mutrala,Hydrating diet,Spicy food,Water intake,Bhujangasana,Anulom Vilom,Urethral health
+cardiomyopathy,Vata,Kapha,Hrid-roga,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,"Oats, Fruits","Salt, Fat",Weight management,Shavasana,Bhramari,Myocardial strength
+vasculitis,Pitta,Rakta,Rakta-shotha,Rakta Dhatu,Manjistha,Kwatha,Water,Raktashodhaka,Anti-inflammatory,Fermented foods,Avoid triggers,Tadasana,Sheetali,Vascular health
+meningitis,Sannipata,None,Mastishka-shotha,Majja Dhatu,Guduchi,Satva,Water,Jwarahara,Liquid diet,Solid food,Emergency care,Shavasana,Anulom Vilom,Neural protection
+chronic pancreatitis,Pitta,Kapha,Agnyashaya-shotha,Annavaha Srotas,Bhunimba,Kwatha,Water,Pachana,"Low fat, bland","Alcohol, Fats",Avoid overeating,Shavasana,Sheetali,Pancreatic flow
+pneumothorax,Vata,None,Vata-purna-ura,Pranavaha Srotas,Vasa,Avaleha,Honey,Vatashamana,Nourishing fluids,Exertion,Medical drainage,Shavasana,Anulom Vilom,Lung expansion
+abscess of nose,Pitta,Kapha,Nasa-vidradhi,Nasa (Nose),Neem,Lep,Water,Ropana/Shothahara,Cooling diet,Spicy food,Warm compress,Adho Mukha Svanasana,Kapalbhati,Nasal healing
+mucositis,Pitta,None,Mukha-paka,Rasa Dhatu,Yastimadhu,Ghanvati,Honey,Ropana,"Soft, cool food","Citrus, Spices",Gargling,Simhasana,Sheetali,Mucosal repair
+induced abortion,Vata,Pitta,Garbhasrava (Induced),Artava Dhatu,Ashoka,Arishta,Water,Artavapravartini,"Nourishing, warm",Strain,Post-care rest,Shavasana,Nadi Shodhana,Uterine recovery
+restless leg syndrome,Vata,None,Chala-vata,Mamsa Dhatu,Ashwagandha,Taila,Warm Milk,Vatashamana,Iron-rich food,Caffeine,Warm foot soak,Vajrasana,Brahmari,Muscle steadying
+ischemia of the bowel,Vata,Pitta,Srotorodha,Annavaha Srotas,Arjuna,Vati,Water,Vatashamana,"Liquid, warm food","Solid, dry food",Medical monitoring,Pavanamuktasana,Anulom Vilom,Intestinal flow
+orthostatic hypotension,Vata,None,Bhrama,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,"Hydrating, salty",Sudden standing,Compression socks,Tadasana,Anulom Vilom,Blood pressure stability
+kidney failure,Vata,Pitta,Vrikka-roga,Mutravaha Srotas,Punarnava,Kwatha,Water,Mutrala,"Low protein, Low salt",Potassium rich,Dialysis support,Paschimottanasana,Sheetali,Renal vitality
+meniere disease,Vata,None,Bhrama,Karna (Inner ear),Saraswatarishta,Arishta,Water,Medhya/Vatashamana,Low salt diet,"Caffeine, Alcohol",Balance exercises,Tadasana,Bhramari,Vestibular balance
+drug abuse (cocaine),Rajas,Vata,Ojo-kshaya,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,"Sattvic, fresh",Drugs,Counseling,Padmasana,Bhastrika,Central nervous recovery
+foreign body in the eye,Vata,None,Netra-shoola,Netra (Eyes),Rose Water,Wash,Warm Milk or Sesame oil,Lekhana/Ropana,"Warm cooked meals, Mung dal, Seasonal vegetables",Rubbing eye,Immediate removal,Shavasana,Anulom Vilom,Ocular safety
+torticollis,Vata,None,Manyastambha,Mamsa Dhatu,Prasaranyadi,Taila,Warm water,Vatashamana,"Warm, moist food",Cold wind,Gentle massage,Marjariasana,Anulom Vilom,Neck flexibility
+retinal detachment,Vata,None,Netra-kshata,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,Nourishing food,Strain,"Surgery, Bed rest",Shavasana,Anulom Vilom,Retinal integrity
+nerve impingement near the shoulder,Vata,None,Amsa-shoola,Majja Dhatu,Shallaki,Vati,Warm water,Vedanasthapana,Anti-inflammatory,Sudden moves,Physiotherapy,Tadasana,Anulom Vilom,Nerve release
+tinnitus of unknown cause,Vata,None,Karnanada,Karna (Ear),Ashwagandha,Taila,Warm water/Milk,Vatashamana,"Warm, unctuous",Loud noise,Karna Purana,Simhasana,Bhramari,Auditory calm
+tension headache,Vata,None,Shirashoola,Manovaha Srotas,Jatamansi,Churna,Milk,Medhya,"Warm, grounding",Stress,Massage,Shavasana,Brahmari,Mental relaxation
+urethral stricture,Vata,Kapha,Mutra-sangha,Mutravaha Srotas,Varuna,Kwatha,Water,Lekhana,Hydrating liquids,Dry food,Urethral dilation,Bhujangasana,Anulom Vilom,Urinary passage
+melanoma,Vata,Pitta,Arbudha,Rakta Dhatu,Manjistha,Arishta,Water,Vishagna,Antioxidant rich,Sun exposure,Skin checks,Tadasana,Sheetali,Cellular defense
+fracture of the vertebra,Vata,None,Asthi-bhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,"Calcium, Protein",Physical effort,Spinal brace,Shavasana,Anulom Vilom,Spinal union
+polycystic ovarian syndrome (pcos),Kapha,Vata,Granthi,Artavavaha Srotas,Kanchanar,Vati,Warm water,Lekhana,Low GI diet,Sugar,Exercise,Baddha Konasana,Kapalbhati,Hormonal balance
+heat exhaustion,Pitta,None,Surya-tapita,Rasa Dhatu,Amalaki,Swarasa,Water,Daha-prashamana,Cooling drinks,Direct sun,Hydration,Tadasana,Sheetali,Core cooling
+arrhythmia,Vata,Pitta,Hrid-kampa,Hridaya,Arjuna,Vati,Water,Hridya,Magnesium rich,Caffeine,Stress management,Shavasana,Bhramari,Heart rhythm
+scar,Vata,Kapha,Vrana-vastu,Twak (Skin),Aloe Vera,Gel,Warm Milk or Sesame oil,Twachya,Fresh food,Junk food,Local massage,Tadasana,Anulom Vilom,Tissue remodeling
+stress incontinence,Vata,None,Mutra-atpravritti,Mutravaha Srotas,Gokshura,Vati,Water,Balya,Fiber-rich,Caffeine,Pelvic floor exercises,Mula Bandha,Anulom Vilom,Pelvic strength
+drug withdrawal,Vata,Pitta,Madatyaya,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,"Nutritious, warm",Addictive agents,Constant monitoring,Shavasana,Brahmari,Systemic stability
+bone disorder,Vata,None,Asthi-roga,Asthi Dhatu,Shallaki,Vati,Warm water,Sandhanaka,Calcium-rich,Carbonated drinks,Walking,Trikonasana,Anulom Vilom,Skeletal strength
+subconjunctival hemorrhage,Pitta,None,Netra-rakta,Netra (Eyes),Rose Water,Eye wash,Ghee or Cooling water,Raktaprasadana,Cooling food,Straining,Eye rest,Shavasana,Sheetali,Blood reabsorption
+graves disease,Pitta,Vata,Vata-pitta-vriddhi,Rasa Dhatu,Kanchanar,Guggulu,Warm water,Lekhana/Pitta-shaman,Cooling food,Iodine excess,Stress reduction,Sarvangasana,Sheetali,Thyroid balance
+peritonsillar abscess,Pitta,Kapha,Kantha-vidradhi,Rasa Dhatu,Triphala,Gargle,Honey,Pachan/Shothahara,"Warm, soft",Hard food,Oral hygiene,Simhasana,Ujjayi,Throat healing
+alcoholic liver disease,Pitta,Vata,Yakrit-roga,Yakrit (Liver),Bhunimba,Kwatha,Water,Yakrit-uttejaka,"Bitter, fresh",Alcohol,Strict abstinence,Katichakrasana,Sheetali,Liver regeneration
+aphthous ulcer,Pitta,None,Mukha-paka,Rasa Dhatu,Yastimadhu,Churna/Lep,Honey,Ropana,"Cooling, bland",Spicy food,B-complex rich,Simhasana,Sheetali,Oral ease
+genital herpes,Pitta,Kapha,Visarpa,Rakta Dhatu,Neem,Taila,Ghee or Cooling water,Krimighna/Vishagna,Cooling food,Salty food,Hygiene,Baddha Konasana,Sheetali,Skin viral control
+deep vein thrombosis (dvt),Vata,Kapha,Siragranthi,Rakta Dhatu,Guggulu,Vati,Warm water,Lekhana,"Low fat, high fiber",Prolonged sitting,Leg elevation,Viparita Karani,Anulom Vilom,Clot resolution
+atrial flutter,Vata,Pitta,Hrid-kampa,Hridaya,Arjuna,Vati,Water,Hridya,Heart-healthy,Stimulants,Cardiac care,Shavasana,Bhramari,Atrial rhythm
+hydrocele of the testicle,Kapha,Vata,Vridhi,Mamsa Dhatu,Punarnava,Kwatha,Water,Shothahara,Low salt diet,Heavy lifting,Scrotal support,Viparita Karani,Anulom Vilom,Fluid drainage
+brain cancer,Sannipata,None,Arbudha,Majja Dhatu,Guduchi,Arishta,Water,Rasayana/Vishagna,Antioxidant,Toxins,Holistic care,Shavasana,Anulom Vilom,Neuro-stability
+anal fissure,Vata,Pitta,Parikartika,Guda (Rectum),Triphala,Grita,Warm water,Ropana/Anulomana,"High fiber, Papaya","Chili, Spices",Sitz bath,Pavanamuktasana,Anulom Vilom,Healing anal canal
+sickle cell anemia,Vata,Rakta,Rakta-kshaya,Rakta Dhatu,Punarnava Mandura,Vati,Buttermilk,Raktavardhaka,Iron rich,Hypoxia,Hydration,Shavasana,Nadi Shodhana,Hemoglobin health
+migraine,Pitta,Vata,Ardhavabhedaka,Manovaha Srotas,Pathyadi,Kwatha,Water,Pitta-shaman,"Cooling, regular","Direct sun, caffeine",Relaxation,Shavasana,Brahmari,Headache relief
+premature atrial contractions (pacs),Vata,Pitta,Hrid-twarata,Hridaya,Arjuna,Vati,Water,Hridya,Balanced,Caffeine,Avoid stress,Shavasana,Bhramari,Cardiac rhythm
+uterine atony,Vata,None,Garbhashaya-shithilata,Artavavaha Srotas,Ashoka,Arishta,Water,Balya,Iron-rich food,Exertion,Uterine massage,Baddha Konasana,Anulom Vilom,Uterine tone
+preeclampsia,Pitta,Vata,Garbhini-vyadhi,Rakta Dhatu,Punarnava,Kwatha,Water,Shothahara,"Low salt, nutritious","Spices, High salt","Bed rest, monitor",Shavasana,Anulom Vilom,Maternal-fetal health
+thyroid nodule,Kapha,Vata,Galaganda,Mamsa Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,Low fat diet,"Soy, Cabbage",Neck exercises,Sarvangasana,Ujjayi,Nodule reduction
+pterygium,Vata,Kapha,Arma,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Lekhana,Vitamin A rich food,Dust/UV exposure,Protective eyewear,Trataka,Anulom Vilom,Growth reduction
+substance-related mental disorder,Vata,Rajas,Madatyaya,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,Sattvic food,Addictive substances,Rehabilitation,Padmasana,Brahmari,Mental stability
+overflow incontinence,Vata,Kapha,Mutra-atpravritti,Mutravaha Srotas,Shilajit,Vati,Warm water,Vatashamana,Hydrating diet,"Alcohol, Caffeine",Bladder training,Mula Bandha,Anulom Vilom,Bladder emptying
+presbyopia,Vata,None,Drishti-kshaya,Netra (Eyes),Triphala Ghrita,Ghrita,Milk,Chakshushya,"Nutritious, oily food",Dim light reading,Eye exercises,Trataka,Anulom Vilom,Visual focus
+osteochondroma,Kapha,Vata,Asthi-granthi,Asthi Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,"Low fat, high fiber",Sedentary life,Regular movement,Tadasana,Anulom Vilom,Bone health
+lyme disease,Sannipata,Vata,Jwara-shotha,Rakta Dhatu,Guduchi,Satva,Water,Vishagna,Anti-inflammatory,Allergens,Rest,Shavasana,Anulom Vilom,Immune modulation
+acute glaucoma,Pitta,Vata,Adhimantha,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,Cooling food,Straining,Emergency pressure care,Trataka,Sheetali,Ocular pressure
+drug poisoning due to medication,Pitta,None,Visha,Rakta Dhatu,Sariva,Phant,Water,Vishagna,Cooling liquids,Trigger drugs,Hydration,Shavasana,Sheetali,Detoxification
+benign kidney cyst,Kapha,Vata,Vrikka-granthi,Mutravaha Srotas,Varuna,Kwatha,Water,Lekhana,"Low salt, high fiber",Excessive salt,Regular monitoring,Bhujangasana,Anulom Vilom,Renal integrity
+pancreatic cancer,Sannipata,None,Arbudha,Annavaha Srotas,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,"Sugar, Alcohol",Holistic care,Shavasana,Anulom Vilom,Digestive vitality
+trigeminal neuralgia,Vata,None,Anantavata,Majja Dhatu,Mashabaladi,Kwatha,Warm water,Vatashamana,"Warm, soft food",Cold wind,Warm compress,Simhasana,Brahmari,Nerve calming
+plantar fasciitis,Vata,None,Vata-kantaka,Snayu,Shallaki,Vati,Warm water,Shothahara,Anti-inflammatory,Standing long hours,Foot stretches,Tadasana,Anulom Vilom,Foot comfort
+female genitalia infection,Kapha,Pitta,Yonivyapad,Artavavaha Srotas,Triphala,Wash,Water,Krimighna,"Yogurt, Bitters",Sweets,Local hygiene,Baddha Konasana,Anulom Vilom,Microbial balance
+essential tremor,Vata,None,Kampa-vata,Majja Dhatu,Ashwagandha,Taila,Warm Milk,Vatashamana,Grounding food,"Caffeine, Stress",Restful routine,Vrikshasana,Anulom Vilom,Stability
+poisoning due to gas,Vata,None,Visha-vayu,Pranavaha Srotas,Tulsi,Arka,Honey,Vishagna,Fresh fluids,Gas exposure,Oxygen therapy,Shavasana,Bhastrika,Respiratory clearing
+cold sore,Pitta,None,Mukha-paka,Rakta Dhatu,Neem,Lep,Ghee or Cooling water,Krimighna,Cooling food,Spicy food,Stress management,Simhasana,Sheetali,Viral control
+primary insomnia,Vata,None,Anidra,Manovaha Srotas,Jatamansi,Churna,Milk,Nidrajanaka,Warm milk before bed,Evening caffeine,Abhyanga,Shavasana,Brahmari,Sleep onset
+tracheitis,Kapha,Pitta,Kantha-shotha,Pranavaha Srotas,Vasa,Avaleha,Honey,Shothahara,Warm liquids,Cold drinks,Steam inhalation,Simhasana,Ujjayi,Airway relief
+panic attack,Vata,None,Manas-chala,Manovaha Srotas,Brahmi,Vati,Milk,Medhya,"Warm, sweet food",Stimulants,Deep breathing,Balasana,Nadi Shodhana,Immediate calm
+osteomyelitis,Pitta,Kapha,Asthi-vidradhi,Asthi Dhatu,Guggulu,Vati,Warm water,Ropana/Shothahara,Anti-inflammatory,Junk food,Immobilization,Shavasana,Anulom Vilom,Bone healing
+scabies,Kapha,Pitta,Kacchu,Twak (Skin),Neem,Taila,Honey or Warm water,Krimighna,Bitter vegetables,Salty food,Personal hygiene,Surya Namaskar,Kapalbhati,Skin parasite clearance
+narcolepsy,Kapha,Tamas,Tandra,Manovaha Srotas,Vacha,Churna,Honey,Medhya,"Light, fresh food","Heavy, fatty meals",Regular sleep cycle,Tadasana,Bhastrika,Alertness
+persistent vomiting of unknown cause,Pitta,Vata,Chardi,Annavaha Srotas,Amalaki,Churna,Honey,Chardi-nigrahana,Sips of cool water,Solid food,Rest,Shavasana,Sheetali,Gastric calm
+pulmonary eosinophilia,Kapha,Pitta,Shwasa-shotha,Pranavaha Srotas,Haridra,Khanda,Warm water,Shothahara,"Warm, light food",Allergens,Avoid dust,Matsyasana,Kapalbhati,Lung immunity
+fracture of the pelvis,Vata,None,Asthi-bhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,"Calcium, protein",Movement,Complete bed rest,Shavasana,Anulom Vilom,Pelvic union
+polycystic kidney disease,Kapha,Vata,Vrikka-granthi,Mutravaha Srotas,Punarnava,Kwatha,Water,Lekhana,"Low salt, balanced",High protein,Monitor renal function,Bhujangasana,Anulom Vilom,Cyst control
+injury of the ankle,Vata,None,Gulpha-shoola,Snayu,Nirgundi,Taila,Warm water,Vatashamana,Protein rich,Walking,Ice and compression,Tadasana,Anulom Vilom,Joint recovery
+malignant hypertension,Pitta,Vata,Raktachapa,Rakta Dhatu,Sarpagandha,Vati,Milk,Hridya,Strict low sodium,"Stress, Alcohol",Emergency care,Vajrasana,Nadi Shodhana,Pressure control
+thoracic outlet syndrome,Vata,None,Snayu-shoola,Majja Dhatu,Bala,Oil,Warm Milk,Vatashamana,Nerve nourishing,Slumping posture,Physiotherapy,Tadasana,Anulom Vilom,Nerve space
+gastroparesis,Vata,Kapha,Agni-mandya,Annavaha Srotas,Trikatu,Churna,Warm water,Deepana,"Small, liquid meals","High fiber, fat",Walking after meals,Vajrasana,Anulom Vilom,Gastric motility
+scoliosis,Vata,None,Kubja,Asthi Dhatu,Sahacharadi,Taila,Warm Milk,Vatashamana,Nutritious diet,Heavy school bags,Postural training,Tadasana,Anulom Vilom,Spinal alignment
+soft tissue sarcoma,Kapha,Vata,Mamsarbuda,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant food,Carcinogens,Oncology care,Shavasana,Anulom Vilom,Cellular balance
+orbital cellulitis,Pitta,Kapha,Netra-shotha,Netra (Eyes),Triphala,Grita,Water,Shothahara,Cooling food,Touching eye,Emergency antibiotics,Trataka,Sheetali,Infection clearance
+headache after lumbar puncture,Vata,None,Shirashoola,Majja Dhatu,Ashwagandha,Ksheerpaka,Milk,Balya,Hydrating fluids,Sudden standing,"Lie flat, rest",Shavasana,Anulom Vilom,CSF balance
+chronic rheumatic fever,Vata,Kapha,Amavata,Sandhi (Joints),Amritadi Guggulu,Vati,Warm water,Amapachana,"Warm, light food","Curd, Cold food",Prevent infections,Pavanamuktasana,Bhastrika,Joint protection
+thoracic aortic aneurysm,Vata,Pitta,Siraja-roga,Rakta Dhatu,Arjuna,Vati,Water,Hridya,Heart healthy,Heavy lifting,Regular monitoring,Shavasana,Bhramari,Vessel strength
+psychosexual disorder,Vata,Rajas,Manovaha-roga,Shukravaha Srotas,Ashwagandha,Ghrita,Milk,Vajikarana/Medhya,Sattvic food,Anxiety triggers,Counseling,Padmasana,Anulom Vilom,Sexual harmony
+broken tooth,Vata,None,Danta-bhanga,Asthi Dhatu,Irimedadi,Taila,Oil pulling,Sandhanaka,Soft food,Hard food,Dental repair,Simhasana,Sheetali,Dental integrity
+chlamydia,Pitta,Kapha,Upadansha,Shukravaha Srotas,Neem,Vati,Water,Krimighna,Anti-inflammatory,Fermented food,Safe practices,Baddha Konasana,Anulom Vilom,Infection control
+head injury,Vata,None,Abhighata,Majja Dhatu,Brahmi,Grita,Milk,Medhya,"Soft, easy to digest",Loud noise,Medical monitoring,Shavasana,Anulom Vilom,Brain healing
+fracture of the shoulder,Vata,None,Asthi-bhanga,Asthi Dhatu,Shallaki,Guggulu,Milk,Sandhanaka,Calcium rich,Arm movement,Sling support,Tadasana,Anulom Vilom,Shoulder union
+intestinal malabsorption,Vata,Kapha,Grahani,Annavaha Srotas,Bilva,Churna,Buttermilk,Deepana/Pachana,"Warm, cooked food",Raw food,Probiotics,Pavanamuktasana,Anulom Vilom,Nutrient absorption
+vulvar disorder,Pitta,Kapha,Yonivyapad,Artavavaha Srotas,Shatavari,Ghrita,Milk,Balya,Anti-inflammatory,Irritants,Local hygiene,Baddha Konasana,Anulom Vilom,Tissue health
+systemic lupus erythematosis (sle),Sannipata,None,Rakta-gata Vata,Rakta Dhatu,Guduchi,Satva,Water,Rasayana,Anti-inflammatory,"Sunlight, stress",Panchakarma,Shavasana,Sheetali,Immune balance
+sick sinus syndrome,Vata,Kapha,Hrid-roga,Hridaya,Arjuna,Vati,Water,Hridya,Heart healthy,Stimulants,Monitor rhythm,Shavasana,Bhramari,Cardiac impulse
+foreign body in the throat,Vata,None,Kantha-shoola,Pranavaha Srotas,Ghee,Oral,Warm Milk or Sesame oil,Shamana (Pacification) and Dhatu-poshana (Tissue nourishment),Soft food,Hard food,Immediate removal,Simhasana,Anulom Vilom,Throat safety
+lumbago,Vata,None,Kati-shoola,Asthi Dhatu,Yogaraja Guggulu,Vati,Warm water,Vatashamana,"Warm, oily food",Cold wind,Correct posture,Marjariasana,Anulom Vilom,Lumbar health
+hydrocephalus,Kapha,Vata,Mastishka-shotha,Majja Dhatu,Punarnava,Kwatha,Water,Mutrala/Lekhana,Low salt diet,Fluid excess,Shunt care,Shavasana,Anulom Vilom,Fluid balance
+stomach cancer,Sannipata,None,Arbudha,Annavaha Srotas,Kanchanar,Arishta,Water,Rasayana,Antioxidant diet,Processed food,Regular screening,Shavasana,Anulom Vilom,Digestive balance
+conjunctivitis due to bacteria,Pitta,Kapha,Netra-abhishyanda,Netra (Eyes),Triphala,Eye Wash,Rose Water,Krimighna,Cooling diet,Dust/Smoke,Eye hygiene,Trataka,Sheetali,Bacterial clearance
+celiac disease,Vata,Pitta,Grahani,Annavaha Srotas,Musta,Churna,Buttermilk,Deepana/Pachana,"Gluten-free, rice, moong","Wheat, Rye, Barley",Probiotic focus,Vajrasana,Anulom Vilom,Gut lining integrity
+chronic knee pain,Vata,None,Januvata,Sandhi (Joints),Shallaki,Vati,Warm water,Sandhishothahara,"Anti-inflammatory, warm",Cold foods,Knee support/rest,Janushirasana,Anulom Vilom,Joint flexibility
+pericarditis,Pitta,Vata,Hrid-shotha,Hridaya,Arjuna,Ksheer-paka,Milk,Hridya,"Cooling, low salt",Spicy food,Cardiac rest,Shavasana,Bhramari,Cardiac cooling
+mastoiditis,Kapha,Pitta,Karnamula-shotha,Karna (Ear),Guggulu,Vati,Warm water,Shothahara,"Warm, light",Cold drinks,Warm compress,Simhasana,Ujjayi,Inner ear health
+subarachnoid hemorrhage,Pitta,Vata,Raktaja-roga,Majja Dhatu,Sariva,Phant,Water,Raktastambhana,"Cooling, bland","Spices, alcohol",Intensive care/Rest,Shavasana,Sheetali,Vessel integrity
+subdural hemorrhage,Pitta,Vata,Abhighataja-rakta,Majja Dhatu,Guduchi,Satva,Water,Raktaprasadana,"Liquid, cooling",Sour food,Absolute bed rest,Shavasana,Nadi Shodhana,Brain recovery
+cerebral palsy,Vata,None,Sahaja-vatavyadhi,Majja Dhatu,Bala,Oil/Ksheerpaka,Warm Milk,Balya/Vatashamana,Nerve nourishing,Heavy fried food,Physical therapy,Tadasana,Anulom Vilom,Neuro-plasticity
+hidradenitis suppurativa,Kapha,Pitta,Nadi-vrana,Twak (Skin),Kanchanar Guggulu,Vati,Warm water,Lekhana/Ropana,"Low sugar, anti-inflammatory","Dairy, Oily food",Personal hygiene,Surya Namaskar,Kapalbhati,Skin follicle health
+cellulitis or abscess of mouth,Pitta,Kapha,Mukha-vidradhi,Mamsa Dhatu,Triphala,Gargle,Honey,Pachana/Ropana,"Cooling, soft",Sharp/Hot food,Local cleanliness,Simhasana,Sheetali,Infection control
+retinopathy due to high blood pressure,Pitta,Vata,Raktachapa-Netraroga,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,"Low salt, Pitta-shaman","High salt, Caffeine",Blood pressure control,Trataka,Sheetali,Retinal stability
+male genitalia infection,Pitta,Kapha,Upadansha,Mamsa Dhatu,Neem,Kwatha wash,Water,Krimighna,"Bitter, cooling","Sour, spicy",Safe hygiene,Baddha Konasana,Anulom Vilom,Genital health
+abdominal aortic aneurysm,Vata,Pitta,Siraja-granthi,Rakta Dhatu,Arjuna,Vati,Water,Hridya/Vatashamana,Heart healthy,Heavy exertion,Avoid straining,Shavasana,Bhramari,Aortic strength
+myositis,Vata,Pitta,Mamsa-shotha,Mamsa Dhatu,Shallaki,Vati,Warm water,Shothahara,Anti-inflammatory,Excessive exercise,Gentle massage,Vajrasana,Anulom Vilom,Muscle repair
+premenstrual tension syndrome,Vata,Pitta,Artava-vyapad,Artavavaha Srotas,Ashwagandha,Arishta,Water,Manoprasadana,"Warm, regular meals","Salt, Caffeine",Relaxation,Balasana,Nadi Shodhana,Hormonal balance
+perirectal infection,Pitta,Kapha,Guda-vidradhi,Mamsa Dhatu,Triphala Guggulu,Vati,Warm water,Shothahara/Ropana,"Fiber-rich, light",Constipating food,Sitz bath,Pavanamuktasana,Anulom Vilom,Anorectal health
+lactose intolerance,Vata,None,Grahani,Annavaha Srotas,Bilva,Churna,Buttermilk (Takra),Deepana,Dairy-free alternatives,"Milk, Cheese",Enzyme support,Vajrasana,Anulom Vilom,Lactase efficiency
+polymyalgia rheumatica,Vata,Kapha,Amavata,Mamsa Dhatu,Amritadi Guggulu,Vati,Warm water,Amapachana,"Warm, light","Curd, Sweets",Daily movement,Tadasana,Bhastrika,Systemic ease
+peripheral arterial embolism,Vata,Kapha,Dhamani-avarodha,Rakta Dhatu,Guggulu,Vati,Warm water,Lekhana,Heart healthy,High cholesterol,Circulation therapy,Viparita Karani,Anulom Vilom,Vessel clearing
+prostate cancer,Sannipata,None,Vatashthila-Arbudha,Mamsa Dhatu,Varuna,Kwatha,Water,Rasayana/Lekhana,Anti-inflammatory diet,Tobacco,Specialist care,Paschimottanasana,Anulom Vilom,Urinary vitality
+myasthenia gravis,Vata,None,Mamsa-kshaya,Majja Dhatu,Ashwagandha,Leha,Milk,Balya,Nerve nourishing,Skipping meals,Energy conservation,Shavasana,Anulom Vilom,Neuromuscular junction
+lymphoma,Sannipata,None,Lasika-arbudha,Rasa Dhatu,Kanchanar,Arishta,Water,Rasayana/Vishagna,Antioxidant rich,Processed toxins,Palliative support,Shavasana,Anulom Vilom,Lymphatic balance
+injury to internal organ,Vata,Pitta,Koshtha-abhighata,Sarvadeha,Laksha,Churna,Milk,Sandhanaka,"Liquid, soft",Hard food,Critical rest,Shavasana,Nadi Shodhana,Organ recovery
+gonorrhea,Pitta,Kapha,Puyameha,Shukravaha Srotas,Chandraprabha Vati,Vati,Warm water,Mutrala/Krimighna,Cooling fluids,"Spices, alcohol",Partner tracing,Baddha Konasana,Sheetali,Infection clearing
+foreign body in the gastrointestinal tract,Vata,None,Shalyagata-Annavaha,Annavaha Srotas,Isabgol,Husk,Warm water,Anulomana,High fiber,Solid food,Surgical watch,Shavasana,Anulom Vilom (Alternate Nostril Breathing),GI passage
+down syndrome,Vata,Kapha,Sahaja-vikruti,Sarvadeha,Brahmi,Grita,Milk,Medhya,"Balanced, fresh",Sugar,Special education,Vrikshasana,Nadi Shodhana,Developmental ease
+injury to the hand,Vata,None,Hasta-abhighata,Snayu,Shallaki,Vati,Warm water,Sandhanaka,Protein-rich,Sudden strain,Immobilization,Tadasana,Anulom Vilom,Hand union
+poisoning due to sedatives,Vata,Tamas,Madatyaya-visha,Manovaha Srotas,Vacha,Arka,Honey,Vishagna/Medhya,Hydrating liquids,Sedatives,Gastric lavage,Shavasana,Bhastrika,Nervous clarity
+thrombocytopenia,Pitta,Rakta,Raktaja-vyadhi,Rakta Dhatu,Giloy (Guduchi),Swarasa,Honey,Raktavardhaka,Papaya leaf extract,Excess salt,Avoid injuries,Vrikshasana,Anulom Vilom,Platelet count
+bladder cancer,Sannipata,None,Vasti-arbudha,Mutravaha Srotas,Kanchanar Guggulu,Vati,Warm water,Rasayana,Anti-inflammatory,Tobacco,Specialist monitoring,Bhujangasana,Anulom Vilom,Bladder health
+pulmonary fibrosis,Vata,None,Phuphusa-kshaya,Pranavaha Srotas,Ashwagandha,Ksheerpaka,Milk,Rasayana,Nourishing fluids,Pollutants,Oxygen therapy,Matsyasana,Deep breathing,Lung elasticity
+varicose veins,Vata,Kapha,Siraja-granthi,Rakta Dhatu,Punarnava,Kwatha,Water,Lekhana,"Low salt, fiber",Standing still,Leg elevation,Viparita Karani,Anulom Vilom,Venous return
+peripheral arterial disease,Vata,Kapha,Dhamani-pratichaya,Rakta Dhatu,Guggulu,Vati,Warm water,Lekhana,Heart healthy,Smoking,Daily walking,Tadasana,Anulom Vilom,Arterial flow
+coronary atherosclerosis,Kapha,Vata,Hrid-avarana,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya/Lekhana,"Fiber, Garlic",Saturated fats,Cardio exercise,Shavasana,Bhramari,Coronary health
+rotator cuff injury,Vata,None,Amsasandhi-kshati,Snayu,Nirgundi,Taila,Warm water,Vatashamana,Protein rich,Overhead lifting,Physiotherapy,Tadasana,Anulom Vilom,Shoulder repair
+fracture of the hand,Vata,None,Hasta-asthi bhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,"Calcium, protein",Exertion,Splinting,Shavasana,Anulom Vilom,Bone union
+postoperative infection,Pitta,Kapha,Agantujashotha,Rakta Dhatu,Neem,Vati/Wash,Water,Krimighna/Ropana,"Light, warm food",Sugary foods,Sterile care,Shavasana,Anulom Vilom,Wound healing
+osteochondrosis,Vata,Kapha,Asthi-vikruti,Asthi Dhatu,Shallaki,Vati,Warm water,Sandhanaka,Calcium rich,Sedentary life,Moderate activity,Trikonasana,Anulom Vilom,Cartilage health
+hyperopia,Vata,None,Drishti-dosha,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,Vitamin A foods,Dark reading,Palming,Trataka,Anulom Vilom,Focus correction
+knee ligament or meniscus tear,Vata,None,Janu-snayu-kshati,Snayu,Guggulu,Vati,Warm water,Sandhanaka,Nutritious proteins,Squatting,RICE therapy,Janu Shirasasana,Anulom Vilom,Ligament repair
+intertrigo (skin condition),Kapha,Pitta,Sidhma (contextual),Twak (Skin),Haridra,Lep,Water,Kandughna,"Cooling, light",Sweat irritants,Keep folds dry,Tadasana,Sheetali,Fungal balance
+chickenpox,Pitta,Kapha,Laghu-masurika,Rakta Dhatu,Neem,Leaves/Kwatha,Water,Vishagna,"Liquid, cooling","Sour, spicy",Isolation,Shavasana,Sheetali,Viral remission
+cerebral edema,Kapha,Vata,Mastishka-shotha,Majja Dhatu,Punarnava,Kwatha,Water,Mutrala/Shothahara,Low salt diet,Fluid excess,Immediate medical,Shavasana,Anulom Vilom,Intracranial pressure
+stenosis of the tear duct,Kapha,None,Ashru-avaradha,Netra (Eyes),Triphala,Grita,Honey,Lekhana,"Warm, light",Cold irritants,Gentle massage,Trataka,Anulom Vilom,Duct clearance
+atelectasis,Kapha,Vata,Phuphusa-sankocha,Pranavaha Srotas,Vasa,Avaleha,Honey,Shwasahara,Warm fluids,Cold air,Incentive spirometry,Matsyasana,Deep breathing,Alveolar expansion
+idiopathic nonmenstrual bleeding,Pitta,None,Asrigdara,Rakta Dhatu,Lodhra,Kwatha,Honey,Stambhana,"Cooling, bitter","Sour, pungent",Complete rest,Viparita Karani,Sheetali,Hemostasis
+poisoning due to antimicrobial drugs,Pitta,None,Oushadha-visha,Rakta Dhatu,Sariva,Phant,Water,Vishagna,"Cooling, light",Allergenic drugs,Hydration,Shavasana,Sheetali,Drug detox
+cervical cancer,Sannipata,None,Garbhashaya-arbudha,Artavavaha Srotas,Kanchanar,Arishta,Water,Rasayana,Antioxidant,Toxins,Screening/Onco-care,Baddha Konasana,Anulom Vilom,Cervical integrity
+fibroadenoma,Kapha,Vata,Stana-granthi,Mamsa Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,Low fat diet,Caffeine,Self-exam,Tadasana,Anulom Vilom,Breast health
+open wound of the mouth,Pitta,None,Mukha-vrana,Mukha (Mouth),Yastimadhu,Churna/Lep,Honey,Ropana,"Soft, cool",Spicy food,Local hygiene,Simhasana,Sheetali,Tissue repair
+encephalitis,Sannipata,None,Mastishkavarana-shotha,Majja Dhatu,Guduchi,Satva,Water,Jwarahara/Vishagna,Liquid diet,Solid food,Intensive care,Shavasana,Anulom Vilom,Neural cooling
+de quervain disease,Vata,None,Snayu-shoola,Snayu,Shallaki,Vati,Warm water,Shothahara,Anti-inflammatory,Repetitive thumb move,Thumb splint,Sukshma Vyayama,Anulom Vilom,Tendon ease
+sjogren syndrome,Vata,Pitta,Rukshata,Rasa Dhatu,Shatavari,Ghrita,Milk,Rasayana,Hydrating foods,Dry/spicy food,Oil pulling,Trataka,Sheetali,Moisture balance
+dissociative disorder,Vata,Rajas,Unmada,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,Sattvic food,Sensory overload,Grounding routine,Vrikshasana,Nadi Shodhana,Psychic integration
+coagulation (bleeding) disorder,Pitta,Rakta,Raktapitta,Rakta Dhatu,Vasa,Swarasa,Honey,Raktastambhana,Cooling food,Pungent spices,Avoid injury,Shavasana,Sheetali,Clotting stability
+vocal cord polyp,Kapha,None,Kantharshas,Rasa Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,"Warm water, Honey",Shouting,Voice rest,Simhasana,Ujjayi,Vocal cord health
+scarlet fever,Pitta,None,Jwara-visarpa,Rakta Dhatu,Guduchi,Satva,Water,Jwarahara,"Liquid, cooling",Heavy food,Rest,Shavasana,Sheetali,Infection remission
+testicular torsion,Vata,None,Vridhi-shoola,Mamsa Dhatu,None (Surgical),Immediate Medical,Warm Milk or Sesame oil,Shamana (Pacification) and Dhatu-poshana (Tissue nourishment),Soft diet,Exertion,Emergency surgery,Shavasana,Anulom Vilom (Alternate Nostril Breathing),Vascular safety
+carbon monoxide poisoning,Vata,Pitta,Visha-vayu,Rakta Dhatu,Tulsi,Arka,Honey,Vishagna,"Fresh air, Fluids",Toxic exposure,Oxygen therapy,Shavasana,Bhastrika,Blood purification
+endometrial cancer,Sannipata,None,Garbhashaya-arbudha,Artava Dhatu,Kanchanar,Arishta,Water,Rasayana,Antioxidant,Toxins,Screening,Baddha Konasana,Anulom Vilom,Uterine health
+pinworm infection,Kapha,None,Krimija,Purishavaha Srotas,Vidanga,Arishta,Water,Krimighna,"Bitters, Garlic",Sugar,Personal hygiene,Pavanamuktasana,Kapalbhati,Parasite clearance
+trigger finger (finger disorder),Vata,Kapha,Snayu-stambha,Snayu,Guggulu,Vati,Warm water,Vatashamana,Anti-inflammatory,Repetitive grip,Gentle stretching,Sukshma Vyayama,Anulom Vilom,Joint glide
+tic (movement) disorder,Vata,None,Kampa-vata,Manovaha Srotas,Ashwagandha,Churna,Milk,Medhya/Vatashamana,"Warm, grounding","Caffeine, Stress",Relaxation,Vrikshasana,Brahmari,Neural stability
+stricture of the esophagus,Vata,Kapha,Srotorodha,Annavaha Srotas,Yastimadhu,Grita,Milk,Lekhana/Ropana,"Liquid, soft food","Dry, hard food",Frequent small sips,Vajrasana,Anulom Vilom,Esophageal patency
+achalasia,Vata,None,Udavarta,Annavaha Srotas,Hing,Vati,Warm water,Vatanulomana,Pureed food,"Dry, cold food",Slow eating,Vajrasana,Anulom Vilom,Sphincter relaxation
+dislocation of the elbow,Vata,None,Sandhi-muktata,Asthi Dhatu,Shallaki,Vati,Warm water,Sandhanaka,Protein rich,Lifting,Immobilization,Tadasana,Anulom Vilom,Joint union
+autonomic nervous system disorder,Vata,None,Vatavyadhi,Majja Dhatu,Ashwagandha,Arishta,Water,Vatashamana,"Warm, stable diet","Stress, irregular sleep",Stable routine,Shavasana,Nadi Shodhana,Autonomic balance
+extrapyramidal effect of drugs,Vata,None,Vata-vikruti,Majja Dhatu,Brahmi,Grita,Milk,Medhya,"Warm, grounding",Drug triggers,Medical review,Shavasana,Brahmari,Motor calm
+bone cancer,Sannipata,None,Asthi-arbudha,Asthi Dhatu,Guduchi,Arishta,Water,Rasayana,"Calcium, nutrient rich",Processed toxins,Holistic support,Shavasana,Anulom Vilom,Bone integrity
+endocarditis,Pitta,Kapha,Hrid-shotha,Hridaya,Arjuna,Vati,Water,Hridya/Vishagna,"Cooling, light",Heavy food,Cardiac care,Shavasana,Bhramari,Cardiac valve health
+gynecomastia,Kapha,Vata,Meda-vriddhi,Mamsa Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,"Low fat, high fiber","Soy, alcohol",Weight control,Tadasana,Kapalbhati,Hormonal balance
+dyshidrosis,Pitta,Kapha,Kshudra-kushtha,Twak (Skin),Neem,Taila,Ghee or Cooling water,Kandughna,"Cooling, light",Sweat irritants,Keep hands/feet dry,Tadasana,Sheetali,Skin barrier
+spina bifida,Vata,None,Sahaja-vikruti,Asthi Dhatu,Bala,Ksheerpaka,Milk,Balya,Nutrient dense,Malnutrition,Supportive care,Shavasana,Anulom Vilom,Spinal support
+spermatocele,Kapha,Vata,Vridhi-granthi,Shukravaha Srotas,Kanchanar Guggulu,Vati,Warm water,Lekhana,Anti-inflammatory,Heavy lifting,Scrotal support,Viparita Karani,Anulom Vilom,Cyst reduction
+vitamin b12 deficiency,Vata,Pitta,Dhatukshaya,Majja Dhatu,Ashwagandha,Leha,Milk,Balya,B12 rich sources,Vegan diet (if unsupplemented),Monitor levels,Tadasana,Anulom Vilom,Nerve nourishment
+kidney cancer,Sannipata,None,Vrikka-arbudha,Mutravaha Srotas,Punarnava,Guggulu,Water,Rasayana/Mutrala,"Low salt, antioxidant",Smoking,Regular monitoring,Bhujangasana,Anulom Vilom,Renal balance
+fracture of the patella,Vata,None,Janu-asthi bhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Weight bearing,Bracing,Shavasana,Anulom Vilom,Patellar union
+toxic multinodular goiter,Pitta,Kapha,Galaganda-paka,Mamsa Dhatu,Kanchanar Guggulu,Vati,Warm water,Pitta-shaman/Lekhana,Cooling food,Iodine excess,Stress control,Sarvangasana,Sheetali,Thyroid calm
+lewy body dementia,Vata,Kapha,Smriti-bhramsha,Manovaha Srotas,Brahmi,Grita,Milk,Medhya,"Grounding, warm",Hallucination triggers,Cognitive care,Vrikshasana,Nadi Shodhana,Neurological focus
+somatization disorder,Vata,Rajas,Manovaha-roga,Sarvadeha,Jatamansi,Churna,Milk,Manoprasadana,Sattvic diet,Stress,Therapy,Padmasana,Brahmari,Body-mind connection
+esophageal cancer,Sannipata,None,Annavaha-arbudha,Annavaha Srotas,Yastimadhu,Grita,Milk,Rasayana,"Liquid, nourishing","Tobacco, alcohol",Onco-care,Vajrasana,Anulom Vilom,Esophageal integrity
+vaginismus,Vata,None,Yonivyapad,Artavavaha Srotas,Ashwagandha,Taila,Warm Milk,Vatashamana,"Warm, grounding",Anxiety triggers,Pelvic physical therapy,Baddha Konasana,Nadi Shodhana,Pelvic relaxation
+chorioretinitis,Pitta,Kapha,Netra-shotha,Netra (Eyes),Triphala,Grita,Honey,Shothahara,Cooling food,Direct light,Rest eyes,Trataka,Sheetali,Retinal healing
+menopause,Vata,Pitta,Rajonivritti,Artava Dhatu,Shatavari,Churna,Milk,Rasayana/Balya,"Calcium rich, cooling","Spicy food, Caffeine","Exercise, meditation",Baddha Konasana,Anulom Vilom,Hormonal transition
+goiter,Kapha,None,Galaganda,Mamsa Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,Iodine-rich (natural),Goitrogens (raw cabbage),Neck exercises,Sarvangasana,Ujjayi,Thyroid health
+fracture of the jaw,Vata,None,Hanu-asthi bhanga,Asthi Dhatu,Laksha,Churna,Milk,Sandhanaka,Liquid diet,Hard food,Jaw immobilization,Shavasana,Anulom Vilom,Mandibular union
+epilepsy,Vata,None,Apasmara,Manovaha Srotas,Brahmi,Ghrita,Warm Milk,Medhya,"Stable, sattvic food","Sleep deprivation, alcohol",Regular routine,Padmasana,Nadi Shodhana,Seizure control
+hypothyroidism,Kapha,Vata,Agni-mandya,Rasa Dhatu,Kanchanar Guggulu,Vati,Warm water,Deepana/Lekhana,"Warm, light food","Cold, heavy food",Regular exercise,Sarvangasana,Ujjayi,Metabolic fire
+hypernatremia,Pitta,Vata,Drava-kshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,"Hydrating, low salt",High salt,Water intake,Tadasana,Anulom Vilom,Sodium balance
+parasitic disease,Kapha,None,Krimiroga,Rakta/Annavaha,Vidanga,Arishta,Water,Krimighna,"Bitters, Garlic","Sugar, Sweets",Hygiene,Pavanamuktasana,Kapalbhati,Intestinal purity
+adhesive capsulitis of the shoulder,Vata,Kapha,Abhighata/Stambha,Snayu,Shallaki,Vati,Warm water,Vatashamana/Shothahara,Anti-inflammatory,Lack of movement,Physiotherapy,Tadasana,Anulom Vilom,Shoulder mobility
+ascending cholangitis,Pitta,None,Yakrit-shotha,Yakrit (Liver),Katuki,Churna,Water,Pittasarak/Vishagna,"Liquid, cooling","Fats, Spices",Emergency care,Katichakrasana,Sheetali,Bile duct clearance
+atonic bladder,Vata,None,Mutra-sangha,Mutravaha Srotas,Gokshura,Vati,Water,Vatashamana,Hydrating liquids,Caffeine,Bladder training,Mula Bandha,Anulom Vilom,Bladder tone
+pityriasis rosea,Pitta,None,Kshudra-kushtha,Twak (Skin),Neem,Lep,Water,Raktaprasadana,Cooling food,Spicy food,Sunlight (moderate),Tadasana,Sheetali,Skin remission
+aplastic anemia,Vata,Rakta,Pandu (contextual),Rakta Dhatu,Punarnava Mandura,Vati,Buttermilk,Rasayana/Raktavardhaka,"Iron rich, Nutritious",Infection risk,Rest,Vrikshasana,Anulom Vilom,Bone marrow health
+central retinal artery or vein occlusion,Vata,Kapha,Srotorodha,Netra (Eyes),Arjuna,Vati,Water,Lekhana/Hridya,Heart healthy,Smoking,Emergency care,Trataka,Anulom Vilom,Retinal circulation
+atrial fibrillation,Vata,Pitta,Hrid-kampa,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,"Low sodium, Fiber","Caffeine, Alcohol",Monitor rhythm,Shavasana,Bhramari,Cardiac rhythm
+ovarian torsion,Vata,None,Artava-shoola,Artavavaha Srotas,None (Surgical),Immediate Medical,Warm Milk or Sesame oil,Shamana (Pacification) and Dhatu-poshana (Tissue nourishment),Soft diet,Exertion,Emergency surgery,Shavasana,Anulom Vilom (Alternate Nostril Breathing),Ovarian safety
+poisoning due to analgesics,Pitta,None,Oushadha-visha,Rakta Dhatu,Sariva,Phant,Water,Vishagna,Cooling liquids,Overdose,Gastric lavage,Shavasana,Sheetali,Liver protection
+lice,Kapha,None,Krimija,Twak (Hair),Neem,Taila,External,Krimighna,Bitter diet,Unhygienic habits,"Hair combing, Hygiene",Sarvangasana,Kapalbhati,Scalp purity
+fracture of the skull,Vata,None,Mastishka-asthi bhanga,Asthi Dhatu,Brahmi,Grita,Milk,Sandhanaka/Medhya,"Liquid, soft",Hard food,Critical monitoring,Shavasana,Anulom Vilom,Cranial union
+injury to the abdomen,Vata,Pitta,Koshtha-abhighata,Annavaha Srotas,Laksha,Churna,Milk,Sandhanaka,Liquid diet,Hard food,Strict rest,Shavasana,Anulom Vilom,Core recovery
+protein deficiency,Kapha,None,Dhatukshaya,Mamsa Dhatu,Ashwagandha,Leha,Milk,Balya,"Protein-rich (lentils, nuts)",Fasting,Gradual refeeding,Tadasana,Anulom Vilom,Muscle rebuilding
+dislocation of the shoulder,Vata,None,Amsa-sandhi muktata,Snayu,Shallaki,Vati,Warm water,Sandhanaka,Protein rich,Heavy lifting,Shoulder brace,Tadasana,Anulom Vilom,Joint stability
+crushing injury,Vata,Pitta,Mamsa-paka,Mamsa Dhatu,Guggulu,Vati,Warm water,Shothahara/Ropana,"Protein, soft diet",Salty food,Elevate limb,Shavasana,Anulom Vilom,Tissue repair
+salivary gland disorder,Kapha,Pitta,Mukha-shotha,Rasa Dhatu,Triphala,Gargle,Honey,Mukhashodhaka,"Hydrating, citrus",Spicy food,Lemon drops,Simhasana,Ujjayi,Salivary flow
+nonalcoholic liver disease (nash),Kapha,Pitta,Yakrit-sthaulya,Yakrit (Liver),Katuki,Churna,Water,Lekhana/Pittasarak,"Low fat, High fiber","Sugar, Fructose",Weight loss,Katichakrasana,Sheetali,Liver metabolic health
+drug abuse (barbiturates),Vata,Tamas,Madatyaya,Manovaha Srotas,Ashwagandha,Arishta,Water,Medhya,"Nourishing, sattvic",Drugs,De-addiction support,Padmasana,Brahmari,Nervous recovery
+hydatidiform mole,Vata,Kapha,Garbhavikara,Artavavaha Srotas,Ashoka,Arishta,Water,None (Surgical),Post-surgical care food,Physical strain,Medical removal,Shavasana,Anulom Vilom,Uterine recovery
+septic arthritis,Pitta,Kapha,Sandhi-vidradhi,Sandhi (Joints),Guggulu,Vati,Warm water,Vishagna/Shothahara,Anti-inflammatory,"Dairy, sweets",Joint immobilization,Shavasana,Anulom Vilom,Synovial clearing
+endophthalmitis,Pitta,Kapha,Netra-shotha,Netra (Eyes),Triphala,Grita,Water,Vishagna,Cooling diet,Direct light,Emergency antibiotics,Trataka,Sheetali,Ocular infection control
+testicular disorder,Vata,Kapha,Shukravaha Srotas,Mamsa Dhatu,Gokshura,Vati,Warm water,Vatashamana,"Balanced, nutritious",Spicy food,Scrotal health,Viparita Karani,Anulom Vilom,Testicular vitality
+amyotrophic lateral sclerosis (als),Vata,None,Vata-kshaya,Majja Dhatu,Ashwagandha,Ghrita,Milk,Rasayana/Balya,Nerve nourishing,Skipping meals,Supportive therapy,Shavasana,Anulom Vilom,Neuro-protection
+hematoma,Rakta,Vata,Raktaja-granthi,Mamsa Dhatu,Haridra,Lep,Lukewarm water,Shothahara,Anti-inflammatory,Salty food,Ice application,Tadasana,Anulom Vilom,Blood reabsorption
+phimosis,Vata,Kapha,Shishnaroga,Mamsa Dhatu,None (Surgical/Manual),Manual Dilatation,Warm Milk or Sesame oil,Shamana (Pacification) and Dhatu-poshana (Tissue nourishment),Soft diet,Irritants,Local hygiene,Tadasana,Anulom Vilom,Anatomical ease
+lichen simplex,Vata,Kapha,Charmakushtha,Twak (Skin),Neem,Taila,Warm Milk or Sesame oil,Kandughna,"Cooling, light","Stress, Allery",Moisturizing,Tadasana,Sheetali,Skin barrier
+burn,Pitta,None,Dagdh-vrana,Twak (Skin),Aloe Vera,Gel,Ghee or Cooling water,Daha-prashamana,Cooling fluids,Spicy food,Clean dressing,Shavasana,Sheetali,Tissue cooling
+guillain barre syndrome,Vata,None,Vatavyadhi,Majja Dhatu,Bala,Oil/Ksheerpaka,Milk,Balya,Nerve nourishing,Infection risk,In-patient care,Shavasana,Anulom Vilom,Neuro-regeneration
+hypertension of pregnancy,Pitta,Vata,Garbhini-raktachapa,Rakta Dhatu,Arjuna,Vati,Water,Hridya,"Low salt, nutritious","Spices, Stress",Rest,Shavasana,Nadi Shodhana,Maternal stability
+presbyacusis,Vata,None,Badhirya,Karna (Ear),Saraswata Ghrita,Ghrita,Milk,Rasayana,"Warm, oily",Loud noise,Karna Purana,Simhasana,Brahmari,Auditory aging
+hormone disorder,Vata,Pitta,Rasa-Dhatu vikara,Artava/Shukravaha,Shatavari,Churna,Milk,Balya/Hormone-balancer,"Balanced, whole foods",Processed food,Regular routine,Baddha Konasana,Anulom Vilom,Endocrine balance
+injury to the knee,Vata,None,Janu-abhighata,Snayu,Shallaki,Vati,Warm water,Sandhanaka,Protein rich,Twisting knee,RICE,Janu Shirasasana,Anulom Vilom,Knee repair
+mittelschmerz,Vata,Pitta,Artava-shoola,Artavavaha Srotas,Ashoka,Kwatha,Water,Vedanasthapana,Warm fluids,Cold food,Warm compress,Balasana,Anulom Vilom,Ovulation comfort
+chondromalacia of the patella,Vata,None,Janu-sandhi gata Vata,Asthi Dhatu,Guggulu,Vati,Warm water,Sandhanaka,Anti-inflammatory,High impact jumping,Knee strengthening,Janu Shirasasana,Anulom Vilom,Cartilage integrity
+lung cancer,Sannipata,None,Phuphusa-arbudha,Pranavaha Srotas,Guduchi,Arishta,Water,Rasayana,"Antioxidant, nourishing",Smoking,Lung rehab,Matsyasana,Deep breathing,Pulmonary vitality
+multiple myeloma,Sannipata,None,Asthi-arbudha,Asthi Dhatu,Kanchanar,Arishta,Water,Rasayana/Raktaprasadana,"Calcium, nourishing",Toxins,Oncology support,Shavasana,Anulom Vilom,Plasma-cell health
+anemia due to chronic kidney disease,Pitta,Vata,Pandu-Vrikkaroga,Rakta Dhatu,Punarnava Mandura,Vati,Buttermilk,Raktavardhaka/Mutrala,"Iron-rich, balanced",Excess potassium,Erythropoietin support,Vrikshasana,Anulom Vilom,Hematopoiesis
+idiopathic infrequent menstruation,Vata,Kapha,Artava-kshaya,Artava Dhatu,Kumari Asava,Arishta,Water,Artavapravartini,"Iron rich, warm",Cold food,Maintain weight,Baddha Konasana,Anulom Vilom,Regularity
+liver cancer,Sannipata,None,Yakrit-arbudha,Yakrit (Liver),Bhunimba,Arishta,Water,Rasayana,"Bitter, light",Alcohol,Strict monitoring,Katichakrasana,Sheetali,Hepatic integrity
+polycythemia vera,Pitta,Rakta,Rakta-vriddhi,Rakta Dhatu,Guduchi,Satva,Water,Raktaprasadana,"Cooling, light",Iron supplements,Hydration,Shavasana,Sheetali,Blood viscosity
+endometrial hyperplasia,Kapha,Pitta,Artava-vriddhi,Artavavaha Srotas,Kanchanar Guggulu,Vati,Warm water,Lekhana,Low fat diet,Estrogenic foods,Exercise,Baddha Konasana,Kapalbhati,Uterine balance
+intestinal cancer,Sannipata,None,Antra-arbudha,Annavaha Srotas,Bilva,Arishta,Water,Rasayana,"High fiber, nutritious",Red meat,Digestive care,Pavanamuktasana,Anulom Vilom,Intestinal health
+premature ovarian failure,Vata,None,Artava-kshaya,Artava Dhatu,Shatavari,Ghrita,Milk,Rasayana,"Nourishing, oily",Stress,HRT (as needed),Baddha Konasana,Anulom Vilom,Ovarian support
+pseudotumor cerebri,Kapha,Vata,Mastishka-shotha,Majja Dhatu,Punarnava,Kwatha,Water,Mutrala/Lekhana,Low salt diet,Fluid excess,Weight loss,Shavasana,Anulom Vilom,CSF pressure
+amblyopia,Vata,None,Drishti-dosha,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,Eye-healthy food,Patching eyes (therapy),Eye exercises,Trataka,Anulom Vilom,Visual development
+atrophy of the corpus cavernosum,Vata,None,Shukravaha-kshaya,Mamsa Dhatu,Ashwagandha,Leha,Milk,Balya,Nutritious diet,Tobacco,Pelvic exercises,Paschimottanasana,Anulom Vilom,Tissue vitality
+scleritis,Pitta,Kapha,Netra-shotha,Netra (Eyes),Triphala,Grita,Water,Shothahara,Cooling food,Rubbing eye,Eye protection,Trataka,Sheetali,Scleral cooling
+hypocalcemia,Vata,None,Asthi-kshaya,Asthi Dhatu,Laksha,Guggulu,Milk,Balya,"Calcium-rich (Milk, Seeds)",Soft drinks,Sunlight (Vitamin D),Trikonasana,Anulom Vilom,Calcium absorption
+hepatic encephalopathy,Pitta,Vata,Yakrit-visha,Majja Dhatu,Katuki,Churna,Water,Vishagna/Pittasarak,"Liquid, low protein",High protein,Ammonia control,Shavasana,Sheetali,Detoxification
+muscular dystrophy,Vata,None,Mamsa-kshaya,Mamsa Dhatu,Ashwagandha,Leha,Milk,Balya/Rasayana,Muscle nourishing,Sedentary life,Gentle physio,Tadasana,Anulom Vilom,Muscle support
+dislocation of the wrist,Vata,None,Sandhi-muktata,Snayu,Shallaki,Vati,Warm water,Sandhanaka,Protein rich,Sudden fall,Splinting,Tadasana,Anulom Vilom,Wrist union
+mumps,Kapha,Pitta,Karnamula-shotha,Rasa Dhatu,Haridra,Kwatha,Honey,Shothahara,Warm liquids,"Sour, spicy",Isolation,Simhasana,Ujjayi,Parotid health
+folate deficiency,Vata,Pitta,Dhatukshaya,Rakta Dhatu,Amalaki,Churna,Water,Rasayana,Green leafy veg,Overcooking veg,Nutrient monitoring,Tadasana,Anulom Vilom,Blood vitality
+whooping cough,Vata,Kapha,Kasa,Pranavaha Srotas,Kantakari,Avaleha,Honey,Kasahara,Warm fluids,Cold air,Steam inhalation,Dhanurasana,Kapalbhati,Airway relief
+erythema multiforme,Pitta,Rakta,Visarpa,Rakta Dhatu,Sariva,Phant,Water,Raktaprasadana,Cooling food,Allergenic drugs,Moisturizing,Shavasana,Sheetali,Skin remission
+cervical disorder,Vata,Pitta,Garbhashaya-mukharoga,Artavavaha Srotas,Lodhra,Kwatha,Water,Shothahara,Anti-inflammatory,Spicy food,Hygiene,Baddha Konasana,Anulom Vilom,Cervical health
+fracture of the neck,Vata,None,Greeva-asthi bhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,"Calcium, soft food",Neck movement,Cervical collar,Shavasana,Anulom Vilom,Spinal union
+poisoning due to anticonvulsants,Pitta,None,Oushadha-visha,Rakta Dhatu,Sariva,Arishta,Water,Vishagna,Cooling liquids,Overdose,Hydration,Shavasana,Sheetali,Systemic detox
+anemia of chronic disease,Vata,Pitta,Pandu,Rakta Dhatu,Punarnava Mandura,Vati,Buttermilk,Rasayana,"Iron-rich, nourishing",Chronic stress,Base disease care,Vrikshasana,Anulom Vilom,RBC vitality
+neuropathy due to drugs,Vata,None,Suptata,Majja Dhatu,Ashwagandha,Taila,Warm Milk,Vatashamana,Nerve nourishing,Nerve-toxic drugs,B-vitamin rich food,Tadasana,Anulom Vilom,Nerve sensation
+allergy to animals,Kapha,Vata,Asatmya,Pranavaha Srotas,Haridra Khanda,Granules,Warm Water,Kaphahara,Warm fluids,Animal dander,Air purifiers,Surya Namaskar,Kapalbhati,Immune balance
+dislocation of the vertebra,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+ectropion,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+bunion,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+cysticercosis,Pitta,Kapha,Kushtha,Rakta Dhatu,Manjistha,Arishta,Water,Raktashodhaka,Bitter vegetables,Sour food,Sunscreen/Oiling,Surya Namaskar,Sheetali,Skin purity
+primary immunodeficiency,Vata,Pitta,Dhatukshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,Mineral/Vitamin rich,Junk food,Supplementation,Tadasana,Anulom Vilom,Nutrient absorption
+congenital heart defect,Vata,Pitta,Hridroga,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,Heart healthy,Caffeine/Salt,Cardiac rehab,Shavasana,Bhramari,Cardiac rhythm
+acariasis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+fracture of the ankle,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+urethral valves,Vata,Pitta,Hridroga,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,Heart healthy,Caffeine/Salt,Cardiac rehab,Shavasana,Bhramari,Cardiac rhythm
+magnesium deficiency,Vata,Pitta,Dhatukshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,Mineral/Vitamin rich,Junk food,Supplementation,Tadasana,Anulom Vilom,Nutrient absorption
+infection of open wound,Pitta,Kapha,Vidradhi,Rakta Dhatu,Neem,Vati,Water,Vishagna/Shothahara,Bitter/Cooling,Fermented food,Personal hygiene,Surya Namaskar,Sheetali,Infection clearance
+adrenal adenoma,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+viral hepatitis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+metabolic disorder,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+neonatal jaundice,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+primary kidney disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+flat feet,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+juvenile rheumatoid arthritis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the ear,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+open wound of the neck,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+open wound of the eye,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+cholesteatoma,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+emphysema,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+hirsutism,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+bone spur of the calcaneous,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+tourette syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+pituitary disorder,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+subacute thyroiditis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+syphilis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+neurofibromatosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+acanthosis nigricans,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+trichiasis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+pituitary adenoma,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+poisoning due to antidepressants,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+injury to the spinal cord,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+female infertility of unknown cause,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+vitreous hemorrhage,Pitta,Rakta,Raktapitta,Rakta Dhatu,Vasa,Swarasa,Honey,Raktastambhana,"Cooling, bland",Spices,Absolute rest,Shavasana,Sheetali,Vessel integrity
+metastatic cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+hemolytic anemia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the foot,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+normal pressure hydrocephalus,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the lip,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+gestational diabetes,Kapha,Vata,Prameha,Meda Dhatu,Nisha-Amalaki,Churna,Water,Pramehagna,"Low GI, Bitter food",Sweets,Regular walking,Paschimottanasana,Anulom Vilom,Glycemic control
+foreign body in the ear,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+hyperhidrosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+poisoning due to ethylene glycol,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+floaters,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+vertebrobasilar insufficiency,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+tuberculosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+breast cyst,Pitta,Kapha,Kushtha,Rakta Dhatu,Manjistha,Arishta,Water,Raktashodhaka,Bitter vegetables,Sour food,Sunscreen/Oiling,Surya Namaskar,Sheetali,Skin purity
+foreign body in the vagina,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+peyronie disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+dislocation of the ankle,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+hemophilia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+conversion disorder,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+anal fistula,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+lymphogranuloma venereum,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+abscess of the lung,Pitta,Kapha,Vidradhi,Rakta Dhatu,Neem,Vati,Water,Vishagna/Shothahara,Bitter/Cooling,Fermented food,Personal hygiene,Surya Namaskar,Sheetali,Infection clearance
+otosclerosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+dislocation of the foot,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+hirschsprung disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+ependymoma,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+pharyngitis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+ovarian cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+uveitis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+chronic inflammatory demyelinating polyneuropathy (cidp),Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+parathyroid adenoma,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+meningioma,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+cyst of the eyelid,Pitta,Vata,Netraroga,Netra (Eyes),Saptamrit Lauha,Vati,Ghee,Chakshushya,Vitamin A foods,Screen strain,Palming,Trataka,Sheetali,Visual clarity
+central atherosclerosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+dislocation of the finger,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+glucocorticoid deficiency,Vata,Pitta,Dhatukshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,Mineral/Vitamin rich,Junk food,Supplementation,Tadasana,Anulom Vilom,Nutrient absorption
+thyroid disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+poisoning due to antihypertensives,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+vitamin d deficiency,Vata,Pitta,Dhatukshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,Mineral/Vitamin rich,Junk food,Supplementation,Tadasana,Anulom Vilom,Nutrient absorption
+kidney disease due to longstanding hypertension,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+mastectomy,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+pyloric stenosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+injury to the hip,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+rhabdomyolysis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+lung contusion,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+cystic fibrosis,Pitta,Kapha,Kushtha,Rakta Dhatu,Manjistha,Arishta,Water,Raktashodhaka,Bitter vegetables,Sour food,Sunscreen/Oiling,Surya Namaskar,Sheetali,Skin purity
+malaria,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+colorectal cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+syringomyelia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+wilson disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+placental abruption,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+fibrocystic breast disease,Pitta,Kapha,Kushtha,Rakta Dhatu,Manjistha,Arishta,Water,Raktashodhaka,Bitter vegetables,Sour food,Sunscreen/Oiling,Surya Namaskar,Sheetali,Skin purity
+fracture of the foot,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+pneumoconiosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+congenital malformation syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+hypothermia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+pregnancy,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+hpv,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+factitious disorder,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+anemia due to malignancy,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+intracranial abscess,Pitta,Kapha,Vidradhi,Rakta Dhatu,Neem,Vati,Water,Vishagna/Shothahara,Bitter/Cooling,Fermented food,Personal hygiene,Surya Namaskar,Sheetali,Infection clearance
+pseudohypoparathyroidism,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+diabetes insipidus,Kapha,Vata,Prameha,Meda Dhatu,Nisha-Amalaki,Churna,Water,Pramehagna,"Low GI, Bitter food",Sweets,Regular walking,Paschimottanasana,Anulom Vilom,Glycemic control
+raynaud disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+frostbite,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+moyamoya disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+toxoplasmosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+volvulus,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+cryptococcosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+myoclonus,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+pulmonic valve disease,Vata,Pitta,Hridroga,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,Heart healthy,Caffeine/Salt,Cardiac rehab,Shavasana,Bhramari,Cardiac rhythm
+heart contusion,Vata,Pitta,Hridroga,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,Heart healthy,Caffeine/Salt,Cardiac rehab,Shavasana,Bhramari,Cardiac rhythm
+birth trauma,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+zenker diverticulum,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+galactorrhea of unknown cause,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the nose,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+chronic kidney disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+hypercalcemia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+testicular cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+vesicoureteral reflux,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+leukemia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+trichinosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the arm,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+optic neuritis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+aspergillosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+decubitus ulcer,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+reactive arthritis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+poisoning due to antipsychotics,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+epidural hemorrhage,Pitta,Rakta,Raktapitta,Rakta Dhatu,Vasa,Swarasa,Honey,Raktastambhana,"Cooling, bland",Spices,Absolute rest,Shavasana,Sheetali,Vessel integrity
+avascular necrosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+granuloma inguinale,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+hemarthrosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the back,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+insulin overdose,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+cushing syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+vacterl syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+hammer toe,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+tricuspid valve disease,Vata,Pitta,Hridroga,Hridaya,Arjuna,Ksheerpaka,Milk,Hridya,Heart healthy,Caffeine/Salt,Cardiac rehab,Shavasana,Bhramari,Cardiac rhythm
+valley fever,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+placenta previa,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+aphakia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+acute fatty liver of pregnancy (aflp),Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+thyroid cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+premature rupture of amniotic membrane,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+lichen planus,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+poisoning due to opioids,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+fracture of the finger,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+hypercholesterolemia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+spinocerebellar ataxia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+injury to the finger,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+fetal alcohol syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+pemphigus,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound from surgical incision,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+omphalitis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+hypertrophic obstructive cardiomyopathy (hocm),Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+priapism,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+tuberous sclerosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+empyema,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+pinguecula,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+breast cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+blepharospasm,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+edward syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+wernicke korsakoff syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+dislocation of the hip,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+vulvar cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+g6pd enzyme deficiency,Vata,Pitta,Dhatukshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,Mineral/Vitamin rich,Junk food,Supplementation,Tadasana,Anulom Vilom,Nutrient absorption
+cryptorchidism,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+von willebrand disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+vitamin a deficiency,Vata,Pitta,Dhatukshaya,Rasa Dhatu,Amalaki,Rasayana,Water,Balya,Mineral/Vitamin rich,Junk food,Supplementation,Tadasana,Anulom Vilom,Nutrient absorption
+uterine cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+hyperosmotic hyperketotic state,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+pelvic fistula,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+spherocytosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+histoplasmosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+friedrich ataxia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+amyloidosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+oral leukoplakia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+scurvy,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+syndrome of inappropriate secretion of adh (siadh),Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+open wound of the shoulder,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+intussusception,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+meckel diverticulum,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the finger,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+dumping syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+open wound of the hand,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+dengue fever,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+obesity,Kapha,None,Sthaulya,Meda Dhatu,Guggulu,Vati,Warm water,Lekhana,"Low fat, high fiber",Sugar/Fats,Daily exercise,Surya Namaskar,Bhastrika,Metabolic health
+dislocation of the patella,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+myelodysplastic syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+adrenal cancer,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+esophageal varices,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the abdomen,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+hemochromatosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+cat scratch disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+dislocation of the knee,Vata,None,Asthibhanga,Asthi Dhatu,Laksha,Guggulu,Milk,Sandhanaka,Calcium rich,Physical strain,Immobilization,Shavasana,Anulom Vilom,Structural union
+primary thrombocythemia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+lymphangitis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+sporotrichosis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+connective tissue disorder,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+open wound of the face,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+hyperlipidemia,Kapha,None,Meda-vriddhi,Rasa Dhatu,Garlic,Vati/Raw,Honey,Lekhana,"Oatmeal, Fiber",Fried food,Brisk walking,Tadasana,Kapalbhati,Lipid balance
+necrotizing fasciitis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+hashimoto thyroiditis,Kapha,Vata,Agni-mandya,Rasa Dhatu,Kanchanar Guggulu,Vati,Warm water,Lekhana,Anti-inflammatory,Gluten/Soy,Regular exercise,Sarvangasana,Ujjayi,Thyroid balance
+diabetic kidney disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+carcinoid syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+human immunodeficiency virus infection (hiv),Sannipata,None,Ojo-kshaya,Sarvadeha,Guduchi,Arishta,Water,Rasayana/Ojobardhaka,Nutrient dense,Unhygienic food,Stress reduction,Shavasana,Anulom Vilom,Immune support
+rheumatic fever,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the jaw,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+turner syndrome,Vata,Pitta,Dhatukshaya,Sarvadeha,Ashwagandha,Leha,Milk,Rasayana,Balanced food,Stress,Routine,Shavasana,Anulom Vilom,Systemic balance
+diabetes,Kapha,Vata,Prameha,Meda Dhatu,Nisha-Amalaki,Churna,Water,Pramehagna,"Low GI, Bitter food",Sweets,Regular walking,Paschimottanasana,Anulom Vilom,Glycemic control
+open wound of the chest,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+huntington disease,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+hypergammaglobulinemia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+typhoid fever,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the cheek,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+open wound of the knee,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+open wound due to trauma,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+chronic ulcer,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+myocarditis,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+heat stroke,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+high blood pressure,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+thalassemia,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+gas gangrene,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+open wound of the head,Vata,Pitta,Abhighata,Mamsa Dhatu,Haridra,Lep,Warm Milk or Sesame oil,Ropana,Protein rich,Hard work,Rest affected part,Shavasana,Anulom Vilom,Tissue healing
+foreign body in the nose,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
+kaposi sarcoma,Sannipata,None,Arbudha,Mamsa Dhatu,Guduchi,Arishta,Water,Rasayana,Antioxidant rich,Toxins/Sugar,Holistic care,Shavasana,Anulom Vilom,Cellular balance
+rocky mountain spotted fever,Vata,None,Dhatukshaya,Sarvadeha,Ashwagandha,Churna,Warm water,Rasayana,Nutritious diet,Fast food,Regular routine,Shavasana,Anulom Vilom,Vitality focus
