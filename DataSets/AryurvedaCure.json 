@@ -1,0 +1,203 @@
+
+//// to genrate  Ayurveda dataset or you can directly downlaod from teh dTASET FOLDER 
+{
+  "nodes": [
+    {
+      "parameters": {
+        "content": "### 🌿 Ayurveda Dataset Workflow Instructions\n1. **Credentials**: Re-link your Google Sheets and Gemini API accounts.\n2. **Source**: In 'Read Bronze Sheet', paste your Source Sheet ID.\n3. **Destination**: In 'Save to Ayurveda Sheet', paste your Target Sheet ID.\n4. **Rate Limits**: The 'Wait' node is set to prevent API errors. Adjust if needed.",
+        "height": 220,
+        "width": 340
+      },
+      "name": "User Manual",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -1120,
+        -180
+      ]
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "PASTE_YOUR_SOURCE_SHEET_ID_HERE",
+          "mode": "list",
+          "cachedResultName": "Bronze_Layer"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "sheet_name_or_id",
+          "mode": "list"
+        },
+        "options": {}
+      },
+      "name": "Read Bronze Sheet",
+      "notes": "Step 1: Fetch the list of diseases from your Bronze Layer sheet.",
+      "notesInFlow": true,
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [
+        -912,
+        80
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "name": "Link your Google Account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "batchSize": 2,
+        "options": {}
+      },
+      "name": "Loop Over Rows",
+      "notes": "Controls how many diseases are processed at once to stay within API limits.",
+      "notesInFlow": true,
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [
+        -656,
+        80
+      ]
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=Role: Senior Ayurvedic Researcher. Task: Generate JSON for disease: {{ $json.diseases }}",
+        "hasOutputParser": true,
+        "options": {}
+      },
+      "name": "AI Agent Researcher",
+      "notes": "This node sends the disease name to the AI and requests the 14 Ayurvedic data points.",
+      "notesInFlow": true,
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        -192,
+        -112
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "PASTE_YOUR_DESTINATION_SHEET_ID_HERE",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "disease_name": "={{ $json.output.disease_name }}",
+            "primary_dosha": "={{ $json.output.primary_dosha }}",
+            "secondary_dosha": "={{ $json.output.secondary_dosha }}",
+            "body_attributes_imbalance": "={{ $json.output.body_attributes_imbalance }}",
+            "tissues_affected": "={{ $json.output.tissues_affected }}",
+            "main_healing_herb": "={{ $json.output.main_healing_herb }}",
+            "herb_preparation": "={{ $json.output.herb_preparation }}",
+            "herb_vehicle": "={{ $json.output.herb_vehicle }}",
+            "herb_action": "={{ $json.output.herb_action }}",
+            "diet_to_favor": "={{ $json.output.diet_to_favor }}",
+            "diet_to_avoid": "={{ $json.output.diet_to_avoid }}",
+            "lifestyle_modification": "={{ $json.output.lifestyle_modification }}",
+            "recommended_yoga_pose": "={{ $json.output.recommended_yoga_pose }}",
+            "recommended_breathing_exercise": "={{ $json.output.recommended_breathing_exercise }}",
+            "meditation_focus": "={{ $json.output.meditation_focus }}"
+          },
+          "schema": [
+            { "displayName": "disease_name", "type": "string" },
+            { "displayName": "primary_dosha", "type": "string" }
+            /* Map other columns here to match your destination sheet headers */
+          ]
+        },
+        "options": {}
+      },
+      "name": "Save to Ayurveda Sheet",
+      "notes": "Step 3: Appends the AI-generated research into your final sheet.",
+      "notesInFlow": true,
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [
+        192,
+        80
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "name": "Link your Google Account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n  \"disease_name\": \"string\",\n  \"primary_dosha\": \"string\",\n  \"secondary_dosha\": \"string\",\n  \"body_attributes_imbalance\": \"string\",\n  \"tissues_affected\": \"string\",\n  \"main_healing_herb\": \"string\",\n  \"herb_preparation\": \"string\",\n  \"herb_vehicle\": \"string\",\n  \"herb_action\": \"string\",\n  \"diet_to_favor\": \"string\",\n  \"diet_to_avoid\": \"string\",\n  \"lifestyle_modification\": \"string\",\n  \"recommended_yoga_pose\": \"string\",\n  \"recommended_breathing_exercise\": \"string\",\n  \"meditation_focus\": \"string\"\n}"
+      },
+      "name": "Structured Output Parser",
+      "notes": "Ensures the AI output is strictly valid JSON for the spreadsheet.",
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        -16,
+        64
+      ]
+    },
+    {
+      "parameters": {},
+      "name": "When clicking 'Execute workflow'",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        -1120,
+        80
+      ]
+    },
+    {
+      "parameters": {
+        "amount": 5,
+        "unit": "seconds"
+      },
+      "name": "Wait",
+      "notes": "Pause to avoid hitting Google Gemini rate limits.",
+      "notesInFlow": true,
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        -432,
+        -64
+      ]
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "name": "Google Gemini Chat Model",
+      "notes": "Connect your Gemini API Key here.",
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1,
+      "position": [
+        -256,
+        64
+      ],
+      "credentials": {
+        "googlePalmApi": {
+          "name": "Link your Gemini API Key"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Read Bronze Sheet": { "main": [[{ "node": "Loop Over Rows", "type": "main", "index": 0 }]] },
+    "Loop Over Rows": { "main": [[], [{ "node": "Wait", "type": "main", "index": 0 }]] },
+    "AI Agent Researcher": { "main": [[{ "node": "Save to Ayurveda Sheet", "type": "main", "index": 0 }]] },
+    "Save to Ayurveda Sheet": { "main": [[{ "node": "Loop Over Rows", "type": "main", "index": 0 }]] },
+    "Structured Output Parser": { "ai_outputParser": [[{ "node": "AI Agent Researcher", "type": "ai_outputParser", "index": 0 }]] },
+    "When clicking 'Execute workflow'": { "main": [[{ "node": "Read Bronze Sheet", "type": "main", "index": 0 }]] },
+    "Wait": { "main": [[{ "node": "AI Agent Researcher", "type": "main", "index": 0 }]] },
+    "Google Gemini Chat Model": { "ai_languageModel": [[{ "node": "AI Agent Researcher", "type": "ai_languageModel", "index": 0 }]] }
+  }
+}
